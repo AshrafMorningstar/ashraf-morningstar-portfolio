@@ -10,3 +10,4 @@
 - 2022-01-12: refactor: decouple ui components from logic
 - 2022-01-13: fix: resolve memory leak in WebGL canvas
 - 2022-01-14: feat: rollout dark mode V2 with neon accents
+- 2022-01-15: refactor: migrate to clean architecture

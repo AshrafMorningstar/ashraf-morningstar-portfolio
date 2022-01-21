@@ -13,3 +13,4 @@
 - 2022-01-15: refactor: migrate to clean architecture
 - 2022-01-16: feat: integrate DeepSeek AI agent for code analysis
 - 2022-01-17: fix: adjust z-index layering for modal overlays
+- 2022-01-21: feat: integrate DeepSeek AI agent for code analysis

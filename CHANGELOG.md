@@ -15,3 +15,4 @@
 - 2022-01-17: fix: adjust z-index layering for modal overlays
 - 2022-01-21: feat: integrate DeepSeek AI agent for code analysis
 - 2022-01-22: refactor: optimize image loading strategy
+- 2022-01-23: refactor: optimize image loading strategy

@@ -16,3 +16,4 @@
 - 2022-01-21: feat: integrate DeepSeek AI agent for code analysis
 - 2022-01-22: refactor: optimize image loading strategy
 - 2022-01-23: refactor: optimize image loading strategy
+- 2022-01-24: feat: add aggressive caching strategy

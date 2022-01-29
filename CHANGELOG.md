@@ -20,3 +20,4 @@
 - 2022-01-26: feat: secure api endpoints with rate limiting
 - 2022-01-27: feat: implement zero-trust security architecture
 - 2022-01-28: fix: optimize bundle size by tree-shaking unused modules
+- 2022-01-29: refactor: migrate to clean architecture

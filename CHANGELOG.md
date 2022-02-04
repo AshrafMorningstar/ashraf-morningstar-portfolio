@@ -22,3 +22,4 @@
 - 2022-01-28: fix: optimize bundle size by tree-shaking unused modules
 - 2022-01-29: refactor: migrate to clean architecture
 - 2022-01-30: fix: adjust z-index layering for modal overlays
+- 2022-02-04: refactor: optimize image loading strategy

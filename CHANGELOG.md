@@ -24,3 +24,4 @@
 - 2022-01-30: fix: adjust z-index layering for modal overlays
 - 2022-02-04: refactor: optimize image loading strategy
 - 2022-02-06: feat: add biometric authentication mockup
+- 2022-02-07: fix: optimize bundle size by tree-shaking unused modules

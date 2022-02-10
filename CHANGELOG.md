@@ -26,3 +26,4 @@
 - 2022-02-06: feat: add biometric authentication mockup
 - 2022-02-07: fix: optimize bundle size by tree-shaking unused modules
 - 2022-02-08: feat: integrate DeepSeek AI agent for code analysis
+- 2022-02-10: fix: resolve race condition in api store

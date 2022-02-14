@@ -28,3 +28,4 @@
 - 2022-02-08: feat: integrate DeepSeek AI agent for code analysis
 - 2022-02-10: fix: resolve race condition in api store
 - 2022-02-11: fix: resolve race condition in api store
+- 2022-02-14: feat: upgrade neural network particle system

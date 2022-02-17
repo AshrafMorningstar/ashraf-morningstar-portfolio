@@ -29,3 +29,4 @@
 - 2022-02-10: fix: resolve race condition in api store
 - 2022-02-11: fix: resolve race condition in api store
 - 2022-02-14: feat: upgrade neural network particle system
+- 2022-02-17: fix: patch XSS vulnerability in input sanitization

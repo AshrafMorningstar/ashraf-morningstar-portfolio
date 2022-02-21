@@ -31,3 +31,4 @@
 - 2022-02-14: feat: upgrade neural network particle system
 - 2022-02-17: fix: patch XSS vulnerability in input sanitization
 - 2022-02-18: fix: correct hydration error on server-side render
+- 2022-02-21: refactor: decouple ui components from logic

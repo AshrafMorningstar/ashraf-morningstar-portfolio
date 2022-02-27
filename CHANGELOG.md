@@ -33,3 +33,4 @@
 - 2022-02-18: fix: correct hydration error on server-side render
 - 2022-02-21: refactor: decouple ui components from logic
 - 2022-02-22: fix: fix accessibility contrast ratio
+- 2022-02-27: fix: correct hydration error on server-side render

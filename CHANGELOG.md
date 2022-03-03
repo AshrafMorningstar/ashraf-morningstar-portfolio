@@ -35,3 +35,4 @@
 - 2022-02-22: fix: fix accessibility contrast ratio
 - 2022-02-27: fix: correct hydration error on server-side render
 - 2022-03-02: refactor: streamline typescript interfaces
+- 2022-03-03: refactor: migrate to clean architecture

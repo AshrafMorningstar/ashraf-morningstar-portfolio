@@ -37,3 +37,4 @@
 - 2022-03-02: refactor: streamline typescript interfaces
 - 2022-03-03: refactor: migrate to clean architecture
 - 2022-03-04: refactor: modernize react hooks implementation
+- 2022-03-06: fix: fix accessibility contrast ratio

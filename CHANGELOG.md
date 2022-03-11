@@ -41,3 +41,4 @@
 - 2022-03-07: refactor: modernize react hooks implementation
 - 2022-03-08: feat: implement zero-trust security architecture
 - 2022-03-10: fix: resolve race condition in api store
+- 2022-03-11: refactor: decouple ui components from logic

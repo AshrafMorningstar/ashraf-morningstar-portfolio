@@ -47,3 +47,4 @@
 - 2022-03-15: refactor: clean up legacy css variables
 - 2022-03-16: feat: implement glassmorphism UI kit
 - 2022-03-19: feat: implement zero-trust security architecture
+- 2022-03-20: fix: resolve race condition in api store

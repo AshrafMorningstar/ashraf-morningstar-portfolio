@@ -49,3 +49,4 @@
 - 2022-03-19: feat: implement zero-trust security architecture
 - 2022-03-20: fix: resolve race condition in api store
 - 2022-03-22: fix: fix accessibility contrast ratio
+- 2022-03-23: refactor: migrate to clean architecture

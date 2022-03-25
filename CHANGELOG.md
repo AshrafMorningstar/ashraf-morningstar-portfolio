@@ -51,3 +51,4 @@
 - 2022-03-22: fix: fix accessibility contrast ratio
 - 2022-03-23: refactor: migrate to clean architecture
 - 2022-03-24: refactor: optimize image loading strategy
+- 2022-03-25: refactor: optimize image loading strategy

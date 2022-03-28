@@ -53,3 +53,4 @@
 - 2022-03-24: refactor: optimize image loading strategy
 - 2022-03-25: refactor: optimize image loading strategy
 - 2022-03-26: refactor: migrate to clean architecture
+- 2022-03-28: refactor: migrate to clean architecture

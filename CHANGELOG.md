@@ -55,3 +55,4 @@
 - 2022-03-26: refactor: migrate to clean architecture
 - 2022-03-28: refactor: migrate to clean architecture
 - 2022-03-30: fix: resolve race condition in api store
+- 2022-04-01: feat: secure api endpoints with rate limiting

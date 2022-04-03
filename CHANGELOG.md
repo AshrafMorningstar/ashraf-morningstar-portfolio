@@ -57,3 +57,4 @@
 - 2022-03-30: fix: resolve race condition in api store
 - 2022-04-01: feat: secure api endpoints with rate limiting
 - 2022-04-02: feat: secure api endpoints with rate limiting
+- 2022-04-03: fix: update dependency security patches

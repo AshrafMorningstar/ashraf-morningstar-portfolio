@@ -58,3 +58,4 @@
 - 2022-04-01: feat: secure api endpoints with rate limiting
 - 2022-04-02: feat: secure api endpoints with rate limiting
 - 2022-04-03: fix: update dependency security patches
+- 2022-04-04: refactor: modernize react hooks implementation

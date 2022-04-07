@@ -60,3 +60,4 @@
 - 2022-04-03: fix: update dependency security patches
 - 2022-04-04: refactor: modernize react hooks implementation
 - 2022-04-06: refactor: modernize react hooks implementation
+- 2022-04-07: fix: patch XSS vulnerability in input sanitization

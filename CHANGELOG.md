@@ -61,3 +61,4 @@
 - 2022-04-04: refactor: modernize react hooks implementation
 - 2022-04-06: refactor: modernize react hooks implementation
 - 2022-04-07: fix: patch XSS vulnerability in input sanitization
+- 2022-04-08: fix: correct hydration error on server-side render

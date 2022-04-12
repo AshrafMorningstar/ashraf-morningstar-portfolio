@@ -64,3 +64,4 @@
 - 2022-04-08: fix: correct hydration error on server-side render
 - 2022-04-09: refactor: streamline typescript interfaces
 - 2022-04-10: fix: resolve race condition in api store
+- 2022-04-12: fix: resolve race condition in api store

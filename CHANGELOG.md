@@ -67,3 +67,4 @@
 - 2022-04-12: fix: resolve race condition in api store
 - 2022-04-13: feat: secure api endpoints with rate limiting
 - 2022-04-14: feat: optimize core web vitals for mobile
+- 2022-04-16: refactor: migrate to clean architecture

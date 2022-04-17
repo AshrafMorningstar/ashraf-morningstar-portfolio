@@ -68,3 +68,4 @@
 - 2022-04-13: feat: secure api endpoints with rate limiting
 - 2022-04-14: feat: optimize core web vitals for mobile
 - 2022-04-16: refactor: migrate to clean architecture
+- 2022-04-17: feat: add aggressive caching strategy

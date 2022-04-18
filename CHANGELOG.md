@@ -69,3 +69,4 @@
 - 2022-04-14: feat: optimize core web vitals for mobile
 - 2022-04-16: refactor: migrate to clean architecture
 - 2022-04-17: feat: add aggressive caching strategy
+- 2022-04-18: fix: optimize bundle size by tree-shaking unused modules

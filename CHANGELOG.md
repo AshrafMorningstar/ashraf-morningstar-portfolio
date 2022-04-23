@@ -72,3 +72,4 @@
 - 2022-04-18: fix: optimize bundle size by tree-shaking unused modules
 - 2022-04-20: refactor: streamline typescript interfaces
 - 2022-04-21: feat: add aggressive caching strategy
+- 2022-04-23: refactor: modernize react hooks implementation

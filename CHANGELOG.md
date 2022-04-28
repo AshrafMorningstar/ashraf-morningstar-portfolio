@@ -75,3 +75,4 @@
 - 2022-04-23: refactor: modernize react hooks implementation
 - 2022-04-26: feat: integrate DeepSeek AI agent for code analysis
 - 2022-04-27: fix: optimize bundle size by tree-shaking unused modules
+- 2022-04-28: feat: rollout dark mode V2 with neon accents

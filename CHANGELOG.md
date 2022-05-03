@@ -77,3 +77,4 @@
 - 2022-04-27: fix: optimize bundle size by tree-shaking unused modules
 - 2022-04-28: feat: rollout dark mode V2 with neon accents
 - 2022-04-29: fix: optimize bundle size by tree-shaking unused modules
+- 2022-05-03: feat: add aggressive caching strategy

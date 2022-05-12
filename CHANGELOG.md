@@ -79,3 +79,4 @@
 - 2022-04-29: fix: optimize bundle size by tree-shaking unused modules
 - 2022-05-03: feat: add aggressive caching strategy
 - 2022-05-05: refactor: streamline typescript interfaces
+- 2022-05-12: fix: fix accessibility contrast ratio

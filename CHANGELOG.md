@@ -80,3 +80,4 @@
 - 2022-05-03: feat: add aggressive caching strategy
 - 2022-05-05: refactor: streamline typescript interfaces
 - 2022-05-12: fix: fix accessibility contrast ratio
+- 2022-05-13: refactor: modernize react hooks implementation

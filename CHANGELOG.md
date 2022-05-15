@@ -82,3 +82,4 @@
 - 2022-05-12: fix: fix accessibility contrast ratio
 - 2022-05-13: refactor: modernize react hooks implementation
 - 2022-05-14: feat: implement glassmorphism UI kit
+- 2022-05-15: fix: optimize bundle size by tree-shaking unused modules

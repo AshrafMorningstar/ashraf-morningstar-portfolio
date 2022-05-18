@@ -84,3 +84,4 @@
 - 2022-05-14: feat: implement glassmorphism UI kit
 - 2022-05-15: fix: optimize bundle size by tree-shaking unused modules
 - 2022-05-17: feat: integrate DeepSeek AI agent for code analysis
+- 2022-05-18: refactor: optimize image loading strategy

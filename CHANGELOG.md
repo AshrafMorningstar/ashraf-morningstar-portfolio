@@ -90,3 +90,4 @@
 - 2022-05-23: feat: add holographic 3D effects
 - 2022-05-24: fix: resolve race condition in api store
 - 2022-05-25: refactor: streamline typescript interfaces
+- 2022-05-26: feat: upgrade neural network particle system

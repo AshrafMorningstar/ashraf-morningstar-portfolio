@@ -91,3 +91,4 @@
 - 2022-05-24: fix: resolve race condition in api store
 - 2022-05-25: refactor: streamline typescript interfaces
 - 2022-05-26: feat: upgrade neural network particle system
+- 2022-05-27: fix: fix accessibility contrast ratio

@@ -93,3 +93,4 @@
 - 2022-05-26: feat: upgrade neural network particle system
 - 2022-05-27: fix: fix accessibility contrast ratio
 - 2022-05-29: feat: rollout dark mode V2 with neon accents
+- 2022-05-30: feat: rollout dark mode V2 with neon accents

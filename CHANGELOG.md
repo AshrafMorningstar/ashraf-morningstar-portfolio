@@ -95,3 +95,4 @@
 - 2022-05-29: feat: rollout dark mode V2 with neon accents
 - 2022-05-30: feat: rollout dark mode V2 with neon accents
 - 2022-05-31: refactor: migrate to clean architecture
+- 2022-06-02: feat: add aggressive caching strategy

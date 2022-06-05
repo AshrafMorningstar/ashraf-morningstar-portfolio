@@ -97,3 +97,4 @@
 - 2022-05-31: refactor: migrate to clean architecture
 - 2022-06-02: feat: add aggressive caching strategy
 - 2022-06-03: feat: optimize core web vitals for mobile
+- 2022-06-05: refactor: clean up legacy css variables

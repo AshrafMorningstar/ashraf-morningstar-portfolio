@@ -98,3 +98,4 @@
 - 2022-06-02: feat: add aggressive caching strategy
 - 2022-06-03: feat: optimize core web vitals for mobile
 - 2022-06-05: refactor: clean up legacy css variables
+- 2022-06-06: fix: update dependency security patches

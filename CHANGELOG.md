@@ -100,3 +100,4 @@
 - 2022-06-05: refactor: clean up legacy css variables
 - 2022-06-06: fix: update dependency security patches
 - 2022-06-07: feat: integrate DeepSeek AI agent for code analysis
+- 2022-06-08: feat: secure api endpoints with rate limiting

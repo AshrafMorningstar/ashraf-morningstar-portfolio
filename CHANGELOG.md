@@ -103,3 +103,4 @@
 - 2022-06-08: feat: secure api endpoints with rate limiting
 - 2022-06-09: feat: add holographic 3D effects
 - 2022-06-10: fix: fix accessibility contrast ratio
+- 2022-06-11: refactor: clean up legacy css variables

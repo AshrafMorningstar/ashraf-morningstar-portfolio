@@ -105,3 +105,4 @@
 - 2022-06-10: fix: fix accessibility contrast ratio
 - 2022-06-11: refactor: clean up legacy css variables
 - 2022-06-13: fix: patch XSS vulnerability in input sanitization
+- 2022-06-14: fix: patch XSS vulnerability in input sanitization

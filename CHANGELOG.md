@@ -114,3 +114,4 @@
 - 2022-06-26: refactor: decouple ui components from logic
 - 2022-06-29: refactor: optimize image loading strategy
 - 2022-07-01: feat: add holographic 3D effects
+- 2022-07-02: fix: resolve memory leak in WebGL canvas

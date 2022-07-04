@@ -116,3 +116,4 @@
 - 2022-07-01: feat: add holographic 3D effects
 - 2022-07-02: fix: resolve memory leak in WebGL canvas
 - 2022-07-03: refactor: optimize image loading strategy
+- 2022-07-04: fix: correct hydration error on server-side render

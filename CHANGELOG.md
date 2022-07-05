@@ -117,3 +117,4 @@
 - 2022-07-02: fix: resolve memory leak in WebGL canvas
 - 2022-07-03: refactor: optimize image loading strategy
 - 2022-07-04: fix: correct hydration error on server-side render
+- 2022-07-05: refactor: streamline typescript interfaces

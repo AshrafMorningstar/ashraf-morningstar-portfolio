@@ -118,3 +118,4 @@
 - 2022-07-03: refactor: optimize image loading strategy
 - 2022-07-04: fix: correct hydration error on server-side render
 - 2022-07-05: refactor: streamline typescript interfaces
+- 2022-07-08: refactor: migrate to clean architecture

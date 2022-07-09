@@ -119,3 +119,4 @@
 - 2022-07-04: fix: correct hydration error on server-side render
 - 2022-07-05: refactor: streamline typescript interfaces
 - 2022-07-08: refactor: migrate to clean architecture
+- 2022-07-09: refactor: decouple ui components from logic

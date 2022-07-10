@@ -120,3 +120,4 @@
 - 2022-07-05: refactor: streamline typescript interfaces
 - 2022-07-08: refactor: migrate to clean architecture
 - 2022-07-09: refactor: decouple ui components from logic
+- 2022-07-10: refactor: optimize image loading strategy

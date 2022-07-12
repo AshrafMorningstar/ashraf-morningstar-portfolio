@@ -122,3 +122,4 @@
 - 2022-07-09: refactor: decouple ui components from logic
 - 2022-07-10: refactor: optimize image loading strategy
 - 2022-07-11: feat: rollout dark mode V2 with neon accents
+- 2022-07-12: feat: rollout dark mode V2 with neon accents

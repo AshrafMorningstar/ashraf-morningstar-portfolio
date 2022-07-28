@@ -129,3 +129,4 @@
 - 2022-07-23: feat: optimize core web vitals for mobile
 - 2022-07-25: feat: rollout dark mode V2 with neon accents
 - 2022-07-26: feat: secure api endpoints with rate limiting
+- 2022-07-28: refactor: modernize react hooks implementation

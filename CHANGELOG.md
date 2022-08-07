@@ -133,3 +133,4 @@
 - 2022-07-30: feat: upgrade neural network particle system
 - 2022-08-03: feat: optimize core web vitals for mobile
 - 2022-08-06: feat: implement zero-trust security architecture
+- 2022-08-07: fix: fix accessibility contrast ratio

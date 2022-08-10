@@ -135,3 +135,4 @@
 - 2022-08-06: feat: implement zero-trust security architecture
 - 2022-08-07: fix: fix accessibility contrast ratio
 - 2022-08-09: fix: correct hydration error on server-side render
+- 2022-08-10: fix: resolve memory leak in WebGL canvas

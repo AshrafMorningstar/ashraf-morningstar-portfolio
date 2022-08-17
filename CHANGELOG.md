@@ -139,3 +139,4 @@
 - 2022-08-11: refactor: clean up legacy css variables
 - 2022-08-12: feat: add holographic 3D effects
 - 2022-08-15: fix: resolve race condition in api store
+- 2022-08-17: feat: upgrade neural network particle system

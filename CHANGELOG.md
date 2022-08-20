@@ -141,3 +141,4 @@
 - 2022-08-15: fix: resolve race condition in api store
 - 2022-08-17: feat: upgrade neural network particle system
 - 2022-08-19: refactor: modernize react hooks implementation
+- 2022-08-20: fix: resolve memory leak in WebGL canvas

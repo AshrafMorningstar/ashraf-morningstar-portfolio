@@ -145,3 +145,4 @@
 - 2022-08-21: feat: add aggressive caching strategy
 - 2022-08-22: refactor: modernize react hooks implementation
 - 2022-08-23: feat: optimize core web vitals for mobile
+- 2022-08-24: fix: patch XSS vulnerability in input sanitization

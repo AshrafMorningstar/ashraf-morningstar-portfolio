@@ -150,3 +150,4 @@
 - 2022-08-26: feat: implement zero-trust security architecture
 - 2022-08-28: refactor: migrate to clean architecture
 - 2022-08-29: fix: adjust z-index layering for modal overlays
+- 2022-08-30: refactor: migrate to clean architecture

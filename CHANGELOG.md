@@ -151,3 +151,4 @@
 - 2022-08-28: refactor: migrate to clean architecture
 - 2022-08-29: fix: adjust z-index layering for modal overlays
 - 2022-08-30: refactor: migrate to clean architecture
+- 2022-08-31: feat: upgrade neural network particle system

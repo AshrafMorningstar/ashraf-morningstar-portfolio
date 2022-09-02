@@ -153,3 +153,4 @@
 - 2022-08-30: refactor: migrate to clean architecture
 - 2022-08-31: feat: upgrade neural network particle system
 - 2022-09-01: fix: patch XSS vulnerability in input sanitization
+- 2022-09-02: refactor: migrate to clean architecture

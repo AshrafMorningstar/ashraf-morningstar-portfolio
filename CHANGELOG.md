@@ -155,3 +155,4 @@
 - 2022-09-01: fix: patch XSS vulnerability in input sanitization
 - 2022-09-02: refactor: migrate to clean architecture
 - 2022-09-03: fix: resolve memory leak in WebGL canvas
+- 2022-09-05: refactor: modernize react hooks implementation

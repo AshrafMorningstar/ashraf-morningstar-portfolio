@@ -161,3 +161,4 @@
 - 2022-09-11: refactor: modernize react hooks implementation
 - 2022-09-13: feat: add biometric authentication mockup
 - 2022-09-16: fix: update dependency security patches
+- 2022-09-17: refactor: streamline typescript interfaces

@@ -162,3 +162,4 @@
 - 2022-09-13: feat: add biometric authentication mockup
 - 2022-09-16: fix: update dependency security patches
 - 2022-09-17: refactor: streamline typescript interfaces
+- 2022-09-19: feat: rollout dark mode V2 with neon accents

@@ -165,3 +165,4 @@
 - 2022-09-19: feat: rollout dark mode V2 with neon accents
 - 2022-09-20: feat: rollout dark mode V2 with neon accents
 - 2022-09-22: fix: resolve race condition in api store
+- 2022-09-23: feat: secure api endpoints with rate limiting

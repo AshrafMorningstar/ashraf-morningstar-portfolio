@@ -168,3 +168,4 @@
 - 2022-09-23: feat: secure api endpoints with rate limiting
 - 2022-09-24: fix: update dependency security patches
 - 2022-09-25: refactor: modernize react hooks implementation
+- 2022-09-26: refactor: migrate to clean architecture

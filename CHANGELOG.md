@@ -170,3 +170,4 @@
 - 2022-09-25: refactor: modernize react hooks implementation
 - 2022-09-26: refactor: migrate to clean architecture
 - 2022-09-28: feat: optimize core web vitals for mobile
+- 2022-09-29: feat: rollout dark mode V2 with neon accents

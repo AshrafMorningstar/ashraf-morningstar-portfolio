@@ -172,3 +172,4 @@
 - 2022-09-28: feat: optimize core web vitals for mobile
 - 2022-09-29: feat: rollout dark mode V2 with neon accents
 - 2022-09-30: feat: secure api endpoints with rate limiting
+- 2022-10-01: refactor: decouple ui components from logic

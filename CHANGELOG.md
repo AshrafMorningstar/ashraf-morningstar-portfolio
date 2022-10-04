@@ -175,3 +175,4 @@
 - 2022-10-01: refactor: decouple ui components from logic
 - 2022-10-02: fix: patch XSS vulnerability in input sanitization
 - 2022-10-03: feat: implement glassmorphism UI kit
+- 2022-10-04: feat: implement glassmorphism UI kit

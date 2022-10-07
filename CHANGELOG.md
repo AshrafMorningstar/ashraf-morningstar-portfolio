@@ -178,3 +178,4 @@
 - 2022-10-04: feat: implement glassmorphism UI kit
 - 2022-10-05: fix: correct hydration error on server-side render
 - 2022-10-06: feat: implement glassmorphism UI kit
+- 2022-10-07: feat: optimize core web vitals for mobile

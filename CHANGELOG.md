@@ -180,3 +180,4 @@
 - 2022-10-06: feat: implement glassmorphism UI kit
 - 2022-10-07: feat: optimize core web vitals for mobile
 - 2022-10-09: fix: fix accessibility contrast ratio
+- 2022-10-12: refactor: modernize react hooks implementation

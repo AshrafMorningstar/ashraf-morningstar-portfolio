@@ -181,3 +181,4 @@
 - 2022-10-07: feat: optimize core web vitals for mobile
 - 2022-10-09: fix: fix accessibility contrast ratio
 - 2022-10-12: refactor: modernize react hooks implementation
+- 2022-10-14: refactor: optimize image loading strategy

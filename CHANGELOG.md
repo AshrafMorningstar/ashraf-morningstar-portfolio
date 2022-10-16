@@ -183,3 +183,4 @@
 - 2022-10-12: refactor: modernize react hooks implementation
 - 2022-10-14: refactor: optimize image loading strategy
 - 2022-10-15: fix: correct hydration error on server-side render
+- 2022-10-16: refactor: optimize image loading strategy

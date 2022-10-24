@@ -186,3 +186,4 @@
 - 2022-10-16: refactor: optimize image loading strategy
 - 2022-10-20: feat: optimize core web vitals for mobile
 - 2022-10-23: fix: correct hydration error on server-side render
+- 2022-10-24: feat: implement glassmorphism UI kit

@@ -189,3 +189,4 @@
 - 2022-10-24: feat: implement glassmorphism UI kit
 - 2022-10-27: refactor: modernize react hooks implementation
 - 2022-10-28: feat: optimize core web vitals for mobile
+- 2022-10-29: fix: patch XSS vulnerability in input sanitization

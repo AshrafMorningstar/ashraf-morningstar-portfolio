@@ -192,3 +192,4 @@
 - 2022-10-29: fix: patch XSS vulnerability in input sanitization
 - 2022-10-30: feat: add holographic 3D effects
 - 2022-11-02: feat: optimize core web vitals for mobile
+- 2022-11-04: refactor: migrate to clean architecture

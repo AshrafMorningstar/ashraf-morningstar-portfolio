@@ -194,3 +194,4 @@
 - 2022-11-02: feat: optimize core web vitals for mobile
 - 2022-11-04: refactor: migrate to clean architecture
 - 2022-11-08: refactor: optimize image loading strategy
+- 2022-11-09: fix: resolve race condition in api store

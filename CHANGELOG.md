@@ -197,3 +197,4 @@
 - 2022-11-09: fix: resolve race condition in api store
 - 2022-11-11: refactor: clean up legacy css variables
 - 2022-11-13: fix: resolve race condition in api store
+- 2022-11-15: fix: optimize bundle size by tree-shaking unused modules

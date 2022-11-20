@@ -199,3 +199,4 @@
 - 2022-11-13: fix: resolve race condition in api store
 - 2022-11-15: fix: optimize bundle size by tree-shaking unused modules
 - 2022-11-19: fix: patch XSS vulnerability in input sanitization
+- 2022-11-20: feat: implement zero-trust security architecture

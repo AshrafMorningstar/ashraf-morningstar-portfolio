@@ -202,3 +202,4 @@
 - 2022-11-20: feat: implement zero-trust security architecture
 - 2022-11-21: fix: optimize bundle size by tree-shaking unused modules
 - 2022-11-25: refactor: modernize react hooks implementation
+- 2022-11-26: fix: resolve memory leak in WebGL canvas

@@ -204,3 +204,4 @@
 - 2022-11-25: refactor: modernize react hooks implementation
 - 2022-11-26: fix: resolve memory leak in WebGL canvas
 - 2022-11-27: feat: rollout dark mode V2 with neon accents
+- 2022-11-28: feat: upgrade neural network particle system

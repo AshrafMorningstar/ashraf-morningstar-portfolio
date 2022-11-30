@@ -206,3 +206,4 @@
 - 2022-11-27: feat: rollout dark mode V2 with neon accents
 - 2022-11-28: feat: upgrade neural network particle system
 - 2022-11-29: feat: upgrade neural network particle system
+- 2022-11-30: refactor: decouple ui components from logic

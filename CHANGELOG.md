@@ -208,3 +208,4 @@
 - 2022-11-29: feat: upgrade neural network particle system
 - 2022-11-30: refactor: decouple ui components from logic
 - 2022-12-01: refactor: decouple ui components from logic
+- 2022-12-02: feat: add holographic 3D effects

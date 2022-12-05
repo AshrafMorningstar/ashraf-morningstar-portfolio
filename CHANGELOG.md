@@ -210,3 +210,4 @@
 - 2022-12-01: refactor: decouple ui components from logic
 - 2022-12-02: feat: add holographic 3D effects
 - 2022-12-03: fix: resolve race condition in api store
+- 2022-12-05: feat: upgrade neural network particle system

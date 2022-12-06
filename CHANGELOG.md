@@ -211,3 +211,4 @@
 - 2022-12-02: feat: add holographic 3D effects
 - 2022-12-03: fix: resolve race condition in api store
 - 2022-12-05: feat: upgrade neural network particle system
+- 2022-12-06: feat: implement glassmorphism UI kit

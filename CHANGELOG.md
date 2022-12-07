@@ -212,3 +212,4 @@
 - 2022-12-03: fix: resolve race condition in api store
 - 2022-12-05: feat: upgrade neural network particle system
 - 2022-12-06: feat: implement glassmorphism UI kit
+- 2022-12-07: refactor: decouple ui components from logic

@@ -214,3 +214,4 @@
 - 2022-12-06: feat: implement glassmorphism UI kit
 - 2022-12-07: refactor: decouple ui components from logic
 - 2022-12-08: fix: correct hydration error on server-side render
+- 2022-12-10: feat: rollout dark mode V2 with neon accents

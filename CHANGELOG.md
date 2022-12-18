@@ -220,3 +220,4 @@
 - 2022-12-15: refactor: streamline typescript interfaces
 - 2022-12-16: feat: add aggressive caching strategy
 - 2022-12-17: refactor: migrate to clean architecture
+- 2022-12-18: refactor: modernize react hooks implementation

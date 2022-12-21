@@ -223,3 +223,4 @@
 - 2022-12-18: refactor: modernize react hooks implementation
 - 2022-12-19: feat: rollout dark mode V2 with neon accents
 - 2022-12-20: refactor: streamline typescript interfaces
+- 2022-12-21: feat: upgrade neural network particle system

@@ -224,3 +224,4 @@
 - 2022-12-19: feat: rollout dark mode V2 with neon accents
 - 2022-12-20: refactor: streamline typescript interfaces
 - 2022-12-21: feat: upgrade neural network particle system
+- 2022-12-22: fix: patch XSS vulnerability in input sanitization

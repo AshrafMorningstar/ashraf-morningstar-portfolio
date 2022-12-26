@@ -226,3 +226,4 @@
 - 2022-12-21: feat: upgrade neural network particle system
 - 2022-12-22: fix: patch XSS vulnerability in input sanitization
 - 2022-12-25: refactor: migrate to clean architecture
+- 2022-12-26: feat: upgrade neural network particle system

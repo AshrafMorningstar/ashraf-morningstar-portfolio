@@ -231,3 +231,4 @@
 - 2022-12-29: fix: adjust z-index layering for modal overlays
 - 2022-12-30: feat: implement zero-trust security architecture
 - 2023-01-01: fix: patch XSS vulnerability in input sanitization
+- 2023-01-03: fix: adjust z-index layering for modal overlays

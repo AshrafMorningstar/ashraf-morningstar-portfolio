@@ -233,3 +233,4 @@
 - 2023-01-01: fix: patch XSS vulnerability in input sanitization
 - 2023-01-03: fix: adjust z-index layering for modal overlays
 - 2023-01-05: refactor: clean up legacy css variables
+- 2023-01-07: refactor: streamline typescript interfaces

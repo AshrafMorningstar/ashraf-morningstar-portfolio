@@ -235,3 +235,4 @@
 - 2023-01-05: refactor: clean up legacy css variables
 - 2023-01-07: refactor: streamline typescript interfaces
 - 2023-01-08: fix: patch XSS vulnerability in input sanitization
+- 2023-01-09: refactor: clean up legacy css variables

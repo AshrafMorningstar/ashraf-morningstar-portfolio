@@ -241,3 +241,4 @@
 - 2023-01-17: refactor: decouple ui components from logic
 - 2023-01-18: feat: implement glassmorphism UI kit
 - 2023-01-22: fix: resolve memory leak in WebGL canvas
+- 2023-01-23: refactor: modernize react hooks implementation

@@ -243,3 +243,4 @@
 - 2023-01-22: fix: resolve memory leak in WebGL canvas
 - 2023-01-23: refactor: modernize react hooks implementation
 - 2023-01-25: feat: add holographic 3D effects
+- 2023-01-26: fix: adjust z-index layering for modal overlays

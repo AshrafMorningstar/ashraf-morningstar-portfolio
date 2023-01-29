@@ -245,3 +245,4 @@
 - 2023-01-25: feat: add holographic 3D effects
 - 2023-01-26: fix: adjust z-index layering for modal overlays
 - 2023-01-27: fix: patch XSS vulnerability in input sanitization
+- 2023-01-29: fix: adjust z-index layering for modal overlays

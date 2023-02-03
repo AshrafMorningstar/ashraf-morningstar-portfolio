@@ -248,3 +248,4 @@
 - 2023-01-29: fix: adjust z-index layering for modal overlays
 - 2023-01-30: fix: correct hydration error on server-side render
 - 2023-01-31: fix: adjust z-index layering for modal overlays
+- 2023-02-03: fix: resolve race condition in api store

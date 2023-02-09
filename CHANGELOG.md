@@ -251,3 +251,4 @@
 - 2023-02-03: fix: resolve race condition in api store
 - 2023-02-04: feat: secure api endpoints with rate limiting
 - 2023-02-05: feat: add aggressive caching strategy
+- 2023-02-09: refactor: migrate to clean architecture

@@ -252,3 +252,4 @@
 - 2023-02-04: feat: secure api endpoints with rate limiting
 - 2023-02-05: feat: add aggressive caching strategy
 - 2023-02-09: refactor: migrate to clean architecture
+- 2023-02-10: refactor: decouple ui components from logic

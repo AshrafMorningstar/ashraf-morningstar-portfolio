@@ -254,3 +254,4 @@
 - 2023-02-09: refactor: migrate to clean architecture
 - 2023-02-10: refactor: decouple ui components from logic
 - 2023-02-12: refactor: migrate to clean architecture
+- 2023-02-13: fix: resolve memory leak in WebGL canvas

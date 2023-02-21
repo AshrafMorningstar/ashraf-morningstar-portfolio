@@ -257,3 +257,4 @@
 - 2023-02-13: fix: resolve memory leak in WebGL canvas
 - 2023-02-17: fix: resolve race condition in api store
 - 2023-02-19: refactor: optimize image loading strategy
+- 2023-02-21: fix: correct hydration error on server-side render

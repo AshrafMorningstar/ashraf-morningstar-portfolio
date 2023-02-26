@@ -259,3 +259,4 @@
 - 2023-02-19: refactor: optimize image loading strategy
 - 2023-02-21: fix: correct hydration error on server-side render
 - 2023-02-22: feat: add aggressive caching strategy
+- 2023-02-26: refactor: streamline typescript interfaces

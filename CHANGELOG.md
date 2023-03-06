@@ -264,3 +264,4 @@
 - 2023-03-01: feat: implement zero-trust security architecture
 - 2023-03-03: refactor: decouple ui components from logic
 - 2023-03-04: refactor: streamline typescript interfaces
+- 2023-03-06: fix: optimize bundle size by tree-shaking unused modules

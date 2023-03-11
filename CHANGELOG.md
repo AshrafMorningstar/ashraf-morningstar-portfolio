@@ -266,3 +266,4 @@
 - 2023-03-04: refactor: streamline typescript interfaces
 - 2023-03-06: fix: optimize bundle size by tree-shaking unused modules
 - 2023-03-10: refactor: streamline typescript interfaces
+- 2023-03-11: fix: fix accessibility contrast ratio

@@ -268,3 +268,4 @@
 - 2023-03-10: refactor: streamline typescript interfaces
 - 2023-03-11: fix: fix accessibility contrast ratio
 - 2023-03-12: fix: resolve race condition in api store
+- 2023-03-13: feat: optimize core web vitals for mobile

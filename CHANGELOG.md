@@ -272,3 +272,4 @@
 - 2023-03-14: refactor: streamline typescript interfaces
 - 2023-03-15: fix: update dependency security patches
 - 2023-03-17: feat: implement glassmorphism UI kit
+- 2023-03-19: refactor: modernize react hooks implementation

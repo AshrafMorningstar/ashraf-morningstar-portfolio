@@ -273,3 +273,4 @@
 - 2023-03-15: fix: update dependency security patches
 - 2023-03-17: feat: implement glassmorphism UI kit
 - 2023-03-19: refactor: modernize react hooks implementation
+- 2023-03-21: fix: patch XSS vulnerability in input sanitization

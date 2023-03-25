@@ -276,3 +276,4 @@
 - 2023-03-21: fix: patch XSS vulnerability in input sanitization
 - 2023-03-22: feat: secure api endpoints with rate limiting
 - 2023-03-23: refactor: streamline typescript interfaces
+- 2023-03-25: feat: upgrade neural network particle system

@@ -278,3 +278,4 @@
 - 2023-03-23: refactor: streamline typescript interfaces
 - 2023-03-25: feat: upgrade neural network particle system
 - 2023-03-26: fix: correct hydration error on server-side render
+- 2023-03-27: refactor: streamline typescript interfaces

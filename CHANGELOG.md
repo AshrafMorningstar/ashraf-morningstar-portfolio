@@ -280,3 +280,4 @@
 - 2023-03-26: fix: correct hydration error on server-side render
 - 2023-03-27: refactor: streamline typescript interfaces
 - 2023-03-28: feat: rollout dark mode V2 with neon accents
+- 2023-03-30: refactor: optimize image loading strategy

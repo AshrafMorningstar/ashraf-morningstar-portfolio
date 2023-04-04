@@ -283,3 +283,4 @@
 - 2023-03-30: refactor: optimize image loading strategy
 - 2023-03-31: refactor: clean up legacy css variables
 - 2023-04-01: feat: add aggressive caching strategy
+- 2023-04-04: fix: resolve memory leak in WebGL canvas

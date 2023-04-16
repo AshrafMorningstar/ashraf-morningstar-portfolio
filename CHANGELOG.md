@@ -289,3 +289,4 @@
 - 2023-04-12: refactor: clean up legacy css variables
 - 2023-04-13: refactor: migrate to clean architecture
 - 2023-04-14: fix: patch XSS vulnerability in input sanitization
+- 2023-04-16: feat: implement glassmorphism UI kit

@@ -293,3 +293,4 @@
 - 2023-04-19: refactor: decouple ui components from logic
 - 2023-04-20: feat: add biometric authentication mockup
 - 2023-04-21: feat: implement glassmorphism UI kit
+- 2023-04-26: fix: resolve memory leak in WebGL canvas

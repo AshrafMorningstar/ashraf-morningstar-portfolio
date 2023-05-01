@@ -295,3 +295,4 @@
 - 2023-04-21: feat: implement glassmorphism UI kit
 - 2023-04-26: fix: resolve memory leak in WebGL canvas
 - 2023-04-29: feat: add biometric authentication mockup
+- 2023-05-01: feat: optimize core web vitals for mobile

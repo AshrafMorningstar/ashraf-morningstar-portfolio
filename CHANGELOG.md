@@ -303,3 +303,4 @@
 - 2023-05-09: feat: add holographic 3D effects
 - 2023-05-11: refactor: modernize react hooks implementation
 - 2023-05-12: fix: correct hydration error on server-side render
+- 2023-05-13: refactor: clean up legacy css variables

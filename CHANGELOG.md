@@ -305,3 +305,4 @@
 - 2023-05-12: fix: correct hydration error on server-side render
 - 2023-05-13: refactor: clean up legacy css variables
 - 2023-05-14: fix: correct hydration error on server-side render
+- 2023-05-15: refactor: decouple ui components from logic

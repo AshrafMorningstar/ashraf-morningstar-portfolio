@@ -316,3 +316,4 @@
 - 2023-05-26: refactor: migrate to clean architecture
 - 2023-05-27: refactor: optimize image loading strategy
 - 2023-05-28: feat: implement glassmorphism UI kit
+- 2023-05-31: fix: resolve race condition in api store

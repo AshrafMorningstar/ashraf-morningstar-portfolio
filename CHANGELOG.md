@@ -324,3 +324,4 @@
 - 2023-06-08: feat: implement zero-trust security architecture
 - 2023-06-09: refactor: optimize image loading strategy
 - 2023-06-11: refactor: clean up legacy css variables
+- 2023-06-12: refactor: decouple ui components from logic

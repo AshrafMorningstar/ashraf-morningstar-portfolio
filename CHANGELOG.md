@@ -326,3 +326,4 @@
 - 2023-06-11: refactor: clean up legacy css variables
 - 2023-06-12: refactor: decouple ui components from logic
 - 2023-06-14: fix: correct hydration error on server-side render
+- 2023-06-15: fix: fix accessibility contrast ratio

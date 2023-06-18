@@ -328,3 +328,4 @@
 - 2023-06-14: fix: correct hydration error on server-side render
 - 2023-06-15: fix: fix accessibility contrast ratio
 - 2023-06-17: refactor: streamline typescript interfaces
+- 2023-06-18: refactor: streamline typescript interfaces

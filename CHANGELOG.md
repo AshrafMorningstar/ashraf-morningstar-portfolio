@@ -330,3 +330,4 @@
 - 2023-06-17: refactor: streamline typescript interfaces
 - 2023-06-18: refactor: streamline typescript interfaces
 - 2023-06-19: feat: optimize core web vitals for mobile
+- 2023-06-20: feat: rollout dark mode V2 with neon accents

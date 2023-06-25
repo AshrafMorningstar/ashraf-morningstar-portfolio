@@ -332,3 +332,4 @@
 - 2023-06-19: feat: optimize core web vitals for mobile
 - 2023-06-20: feat: rollout dark mode V2 with neon accents
 - 2023-06-24: fix: update dependency security patches
+- 2023-06-25: fix: optimize bundle size by tree-shaking unused modules

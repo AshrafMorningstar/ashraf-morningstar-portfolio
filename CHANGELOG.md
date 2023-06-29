@@ -334,3 +334,4 @@
 - 2023-06-24: fix: update dependency security patches
 - 2023-06-25: fix: optimize bundle size by tree-shaking unused modules
 - 2023-06-27: fix: optimize bundle size by tree-shaking unused modules
+- 2023-06-29: refactor: clean up legacy css variables

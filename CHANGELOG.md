@@ -345,3 +345,4 @@
 - 2023-07-14: feat: secure api endpoints with rate limiting
 - 2023-07-15: fix: update dependency security patches
 - 2023-07-16: feat: optimize core web vitals for mobile
+- 2023-07-17: feat: implement glassmorphism UI kit

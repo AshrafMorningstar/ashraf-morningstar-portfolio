@@ -347,3 +347,4 @@
 - 2023-07-16: feat: optimize core web vitals for mobile
 - 2023-07-17: feat: implement glassmorphism UI kit
 - 2023-07-20: feat: secure api endpoints with rate limiting
+- 2023-07-23: refactor: decouple ui components from logic

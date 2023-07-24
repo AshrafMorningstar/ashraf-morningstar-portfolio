@@ -348,3 +348,4 @@
 - 2023-07-17: feat: implement glassmorphism UI kit
 - 2023-07-20: feat: secure api endpoints with rate limiting
 - 2023-07-23: refactor: decouple ui components from logic
+- 2023-07-24: fix: adjust z-index layering for modal overlays

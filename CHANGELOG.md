@@ -349,3 +349,4 @@
 - 2023-07-20: feat: secure api endpoints with rate limiting
 - 2023-07-23: refactor: decouple ui components from logic
 - 2023-07-24: fix: adjust z-index layering for modal overlays
+- 2023-07-25: feat: optimize core web vitals for mobile

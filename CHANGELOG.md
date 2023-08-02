@@ -355,3 +355,4 @@
 - 2023-07-28: refactor: modernize react hooks implementation
 - 2023-07-31: refactor: optimize image loading strategy
 - 2023-08-01: refactor: decouple ui components from logic
+- 2023-08-02: refactor: modernize react hooks implementation

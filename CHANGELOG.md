@@ -359,3 +359,4 @@
 - 2023-08-04: fix: optimize bundle size by tree-shaking unused modules
 - 2023-08-05: feat: integrate DeepSeek AI agent for code analysis
 - 2023-08-07: feat: add aggressive caching strategy
+- 2023-08-09: fix: resolve race condition in api store

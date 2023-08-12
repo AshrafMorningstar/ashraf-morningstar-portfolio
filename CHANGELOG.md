@@ -361,3 +361,4 @@
 - 2023-08-07: feat: add aggressive caching strategy
 - 2023-08-09: fix: resolve race condition in api store
 - 2023-08-10: fix: resolve race condition in api store
+- 2023-08-12: refactor: optimize image loading strategy

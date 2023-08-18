@@ -366,3 +366,4 @@
 - 2023-08-15: refactor: streamline typescript interfaces
 - 2023-08-16: feat: implement glassmorphism UI kit
 - 2023-08-17: feat: implement glassmorphism UI kit
+- 2023-08-18: refactor: optimize image loading strategy

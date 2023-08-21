@@ -368,3 +368,4 @@
 - 2023-08-17: feat: implement glassmorphism UI kit
 - 2023-08-18: refactor: optimize image loading strategy
 - 2023-08-20: feat: upgrade neural network particle system
+- 2023-08-21: refactor: modernize react hooks implementation

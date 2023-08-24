@@ -371,3 +371,4 @@
 - 2023-08-21: refactor: modernize react hooks implementation
 - 2023-08-22: fix: resolve race condition in api store
 - 2023-08-23: fix: resolve race condition in api store
+- 2023-08-24: refactor: migrate to clean architecture

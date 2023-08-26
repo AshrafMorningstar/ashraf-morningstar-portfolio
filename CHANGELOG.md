@@ -372,3 +372,4 @@
 - 2023-08-22: fix: resolve race condition in api store
 - 2023-08-23: fix: resolve race condition in api store
 - 2023-08-24: refactor: migrate to clean architecture
+- 2023-08-26: fix: patch XSS vulnerability in input sanitization

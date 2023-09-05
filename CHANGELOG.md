@@ -374,3 +374,4 @@
 - 2023-08-24: refactor: migrate to clean architecture
 - 2023-08-26: fix: patch XSS vulnerability in input sanitization
 - 2023-08-27: fix: optimize bundle size by tree-shaking unused modules
+- 2023-09-05: refactor: decouple ui components from logic

@@ -378,3 +378,4 @@
 - 2023-09-06: fix: optimize bundle size by tree-shaking unused modules
 - 2023-09-07: fix: update dependency security patches
 - 2023-09-08: feat: implement glassmorphism UI kit
+- 2023-09-10: feat: implement glassmorphism UI kit

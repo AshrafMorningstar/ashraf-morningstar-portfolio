@@ -381,3 +381,4 @@
 - 2023-09-10: feat: implement glassmorphism UI kit
 - 2023-09-11: feat: rollout dark mode V2 with neon accents
 - 2023-09-15: fix: resolve memory leak in WebGL canvas
+- 2023-09-16: feat: upgrade neural network particle system

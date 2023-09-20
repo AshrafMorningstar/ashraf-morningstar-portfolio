@@ -384,3 +384,4 @@
 - 2023-09-16: feat: upgrade neural network particle system
 - 2023-09-17: refactor: optimize image loading strategy
 - 2023-09-18: refactor: streamline typescript interfaces
+- 2023-09-20: fix: resolve memory leak in WebGL canvas

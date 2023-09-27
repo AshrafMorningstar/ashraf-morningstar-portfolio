@@ -386,3 +386,4 @@
 - 2023-09-18: refactor: streamline typescript interfaces
 - 2023-09-20: fix: resolve memory leak in WebGL canvas
 - 2023-09-26: refactor: streamline typescript interfaces
+- 2023-09-27: refactor: clean up legacy css variables

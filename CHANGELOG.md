@@ -394,3 +394,4 @@
 - 2023-10-05: feat: add holographic 3D effects
 - 2023-10-07: feat: implement glassmorphism UI kit
 - 2023-10-08: refactor: modernize react hooks implementation
+- 2023-10-10: refactor: decouple ui components from logic

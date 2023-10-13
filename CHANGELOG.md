@@ -397,3 +397,4 @@
 - 2023-10-10: refactor: decouple ui components from logic
 - 2023-10-11: refactor: migrate to clean architecture
 - 2023-10-12: fix: adjust z-index layering for modal overlays
+- 2023-10-13: refactor: optimize image loading strategy

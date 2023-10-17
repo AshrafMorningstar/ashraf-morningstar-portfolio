@@ -401,3 +401,4 @@
 - 2023-10-14: feat: add holographic 3D effects
 - 2023-10-15: feat: implement zero-trust security architecture
 - 2023-10-16: fix: optimize bundle size by tree-shaking unused modules
+- 2023-10-17: fix: resolve race condition in api store

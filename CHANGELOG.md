@@ -404,3 +404,4 @@
 - 2023-10-17: fix: resolve race condition in api store
 - 2023-10-18: refactor: migrate to clean architecture
 - 2023-10-19: feat: rollout dark mode V2 with neon accents
+- 2023-10-22: refactor: modernize react hooks implementation

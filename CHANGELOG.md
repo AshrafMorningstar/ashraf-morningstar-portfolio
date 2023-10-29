@@ -409,3 +409,4 @@
 - 2023-10-24: refactor: streamline typescript interfaces
 - 2023-10-27: feat: add biometric authentication mockup
 - 2023-10-28: refactor: modernize react hooks implementation
+- 2023-10-29: refactor: clean up legacy css variables

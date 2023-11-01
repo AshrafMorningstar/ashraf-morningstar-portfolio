@@ -411,3 +411,4 @@
 - 2023-10-28: refactor: modernize react hooks implementation
 - 2023-10-29: refactor: clean up legacy css variables
 - 2023-10-30: refactor: optimize image loading strategy
+- 2023-11-01: refactor: optimize image loading strategy

@@ -414,3 +414,4 @@
 - 2023-11-01: refactor: optimize image loading strategy
 - 2023-11-03: fix: optimize bundle size by tree-shaking unused modules
 - 2023-11-09: feat: integrate DeepSeek AI agent for code analysis
+- 2023-11-10: refactor: clean up legacy css variables

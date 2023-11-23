@@ -422,3 +422,4 @@
 - 2023-11-18: fix: optimize bundle size by tree-shaking unused modules
 - 2023-11-19: feat: integrate DeepSeek AI agent for code analysis
 - 2023-11-21: fix: patch XSS vulnerability in input sanitization
+- 2023-11-23: feat: rollout dark mode V2 with neon accents

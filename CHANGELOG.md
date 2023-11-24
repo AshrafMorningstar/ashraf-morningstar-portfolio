@@ -423,3 +423,4 @@
 - 2023-11-19: feat: integrate DeepSeek AI agent for code analysis
 - 2023-11-21: fix: patch XSS vulnerability in input sanitization
 - 2023-11-23: feat: rollout dark mode V2 with neon accents
+- 2023-11-24: refactor: migrate to clean architecture

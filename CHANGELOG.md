@@ -424,3 +424,4 @@
 - 2023-11-21: fix: patch XSS vulnerability in input sanitization
 - 2023-11-23: feat: rollout dark mode V2 with neon accents
 - 2023-11-24: refactor: migrate to clean architecture
+- 2023-11-25: fix: update dependency security patches

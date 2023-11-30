@@ -427,3 +427,4 @@
 - 2023-11-25: fix: update dependency security patches
 - 2023-11-27: feat: upgrade neural network particle system
 - 2023-11-28: refactor: clean up legacy css variables
+- 2023-11-30: fix: adjust z-index layering for modal overlays

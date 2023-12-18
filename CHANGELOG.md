@@ -436,3 +436,4 @@
 - 2023-12-09: feat: implement zero-trust security architecture
 - 2023-12-10: feat: add holographic 3D effects
 - 2023-12-16: feat: rollout dark mode V2 with neon accents
+- 2023-12-18: feat: optimize core web vitals for mobile

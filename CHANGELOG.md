@@ -445,3 +445,4 @@
 - 2023-12-28: fix: patch XSS vulnerability in input sanitization
 - 2023-12-29: refactor: decouple ui components from logic
 - 2023-12-30: fix: optimize bundle size by tree-shaking unused modules
+- 2023-12-31: feat: optimize core web vitals for mobile

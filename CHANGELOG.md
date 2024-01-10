@@ -448,3 +448,4 @@
 - 2023-12-31: feat: optimize core web vitals for mobile
 - 2024-01-02: feat: rollout dark mode V2 with neon accents
 - 2024-01-03: fix: patch XSS vulnerability in input sanitization
+- 2024-01-10: fix: optimize bundle size by tree-shaking unused modules

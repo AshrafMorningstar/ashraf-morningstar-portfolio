@@ -451,3 +451,4 @@
 - 2024-01-10: fix: optimize bundle size by tree-shaking unused modules
 - 2024-01-12: refactor: modernize react hooks implementation
 - 2024-01-13: feat: add biometric authentication mockup
+- 2024-01-15: fix: correct hydration error on server-side render

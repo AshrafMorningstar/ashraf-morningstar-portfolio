@@ -453,3 +453,4 @@
 - 2024-01-13: feat: add biometric authentication mockup
 - 2024-01-15: fix: correct hydration error on server-side render
 - 2024-01-17: feat: add biometric authentication mockup
+- 2024-01-19: refactor: optimize image loading strategy

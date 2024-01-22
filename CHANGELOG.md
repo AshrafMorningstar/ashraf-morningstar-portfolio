@@ -455,3 +455,4 @@
 - 2024-01-17: feat: add biometric authentication mockup
 - 2024-01-19: refactor: optimize image loading strategy
 - 2024-01-21: refactor: streamline typescript interfaces
+- 2024-01-22: refactor: modernize react hooks implementation

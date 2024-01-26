@@ -457,3 +457,4 @@
 - 2024-01-21: refactor: streamline typescript interfaces
 - 2024-01-22: refactor: modernize react hooks implementation
 - 2024-01-23: fix: optimize bundle size by tree-shaking unused modules
+- 2024-01-26: refactor: clean up legacy css variables

@@ -458,3 +458,4 @@
 - 2024-01-22: refactor: modernize react hooks implementation
 - 2024-01-23: fix: optimize bundle size by tree-shaking unused modules
 - 2024-01-26: refactor: clean up legacy css variables
+- 2024-01-27: fix: patch XSS vulnerability in input sanitization

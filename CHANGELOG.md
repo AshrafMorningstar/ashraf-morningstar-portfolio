@@ -459,3 +459,4 @@
 - 2024-01-23: fix: optimize bundle size by tree-shaking unused modules
 - 2024-01-26: refactor: clean up legacy css variables
 - 2024-01-27: fix: patch XSS vulnerability in input sanitization
+- 2024-01-28: fix: fix accessibility contrast ratio

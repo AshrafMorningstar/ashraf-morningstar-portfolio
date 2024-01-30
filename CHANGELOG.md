@@ -461,3 +461,4 @@
 - 2024-01-27: fix: patch XSS vulnerability in input sanitization
 - 2024-01-28: fix: fix accessibility contrast ratio
 - 2024-01-29: refactor: modernize react hooks implementation
+- 2024-01-30: fix: resolve race condition in api store

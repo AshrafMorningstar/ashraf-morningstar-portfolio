@@ -463,3 +463,4 @@
 - 2024-01-29: refactor: modernize react hooks implementation
 - 2024-01-30: fix: resolve race condition in api store
 - 2024-01-31: fix: adjust z-index layering for modal overlays
+- 2024-02-02: fix: correct hydration error on server-side render

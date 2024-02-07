@@ -465,3 +465,4 @@
 - 2024-01-31: fix: adjust z-index layering for modal overlays
 - 2024-02-02: fix: correct hydration error on server-side render
 - 2024-02-05: refactor: migrate to clean architecture
+- 2024-02-07: refactor: clean up legacy css variables

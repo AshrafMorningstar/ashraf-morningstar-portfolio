@@ -466,3 +466,4 @@
 - 2024-02-02: fix: correct hydration error on server-side render
 - 2024-02-05: refactor: migrate to clean architecture
 - 2024-02-07: refactor: clean up legacy css variables
+- 2024-02-08: feat: rollout dark mode V2 with neon accents

@@ -467,3 +467,4 @@
 - 2024-02-05: refactor: migrate to clean architecture
 - 2024-02-07: refactor: clean up legacy css variables
 - 2024-02-08: feat: rollout dark mode V2 with neon accents
+- 2024-02-09: fix: resolve memory leak in WebGL canvas

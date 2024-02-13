@@ -470,3 +470,4 @@
 - 2024-02-09: fix: resolve memory leak in WebGL canvas
 - 2024-02-11: fix: resolve race condition in api store
 - 2024-02-12: fix: update dependency security patches
+- 2024-02-13: refactor: modernize react hooks implementation

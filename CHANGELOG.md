@@ -472,3 +472,4 @@
 - 2024-02-12: fix: update dependency security patches
 - 2024-02-13: refactor: modernize react hooks implementation
 - 2024-02-16: refactor: decouple ui components from logic
+- 2024-02-22: feat: implement glassmorphism UI kit

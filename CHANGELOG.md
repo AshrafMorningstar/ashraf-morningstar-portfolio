@@ -474,3 +474,4 @@
 - 2024-02-16: refactor: decouple ui components from logic
 - 2024-02-22: feat: implement glassmorphism UI kit
 - 2024-02-24: fix: resolve memory leak in WebGL canvas
+- 2024-02-26: feat: add aggressive caching strategy

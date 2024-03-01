@@ -476,3 +476,4 @@
 - 2024-02-24: fix: resolve memory leak in WebGL canvas
 - 2024-02-26: feat: add aggressive caching strategy
 - 2024-02-29: refactor: modernize react hooks implementation
+- 2024-03-01: refactor: migrate to clean architecture

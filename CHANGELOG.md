@@ -480,3 +480,4 @@
 - 2024-03-03: feat: add holographic 3D effects
 - 2024-03-05: refactor: optimize image loading strategy
 - 2024-03-06: feat: optimize core web vitals for mobile
+- 2024-03-07: refactor: migrate to clean architecture

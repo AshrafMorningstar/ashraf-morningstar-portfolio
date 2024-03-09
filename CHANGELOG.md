@@ -481,3 +481,4 @@
 - 2024-03-05: refactor: optimize image loading strategy
 - 2024-03-06: feat: optimize core web vitals for mobile
 - 2024-03-07: refactor: migrate to clean architecture
+- 2024-03-09: feat: rollout dark mode V2 with neon accents

@@ -482,3 +482,4 @@
 - 2024-03-06: feat: optimize core web vitals for mobile
 - 2024-03-07: refactor: migrate to clean architecture
 - 2024-03-09: feat: rollout dark mode V2 with neon accents
+- 2024-03-11: fix: optimize bundle size by tree-shaking unused modules

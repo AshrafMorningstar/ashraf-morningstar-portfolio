@@ -484,3 +484,4 @@
 - 2024-03-09: feat: rollout dark mode V2 with neon accents
 - 2024-03-11: fix: optimize bundle size by tree-shaking unused modules
 - 2024-03-12: feat: secure api endpoints with rate limiting
+- 2024-03-15: fix: patch XSS vulnerability in input sanitization

@@ -493,3 +493,4 @@
 - 2024-03-23: feat: add aggressive caching strategy
 - 2024-03-26: fix: correct hydration error on server-side render
 - 2024-04-03: fix: patch XSS vulnerability in input sanitization
+- 2024-04-05: feat: optimize core web vitals for mobile

@@ -495,3 +495,4 @@
 - 2024-04-03: fix: patch XSS vulnerability in input sanitization
 - 2024-04-05: feat: optimize core web vitals for mobile
 - 2024-04-07: fix: adjust z-index layering for modal overlays
+- 2024-04-08: refactor: optimize image loading strategy

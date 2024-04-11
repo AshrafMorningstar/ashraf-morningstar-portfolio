@@ -498,3 +498,4 @@
 - 2024-04-08: refactor: optimize image loading strategy
 - 2024-04-09: feat: rollout dark mode V2 with neon accents
 - 2024-04-10: feat: add holographic 3D effects
+- 2024-04-11: fix: optimize bundle size by tree-shaking unused modules

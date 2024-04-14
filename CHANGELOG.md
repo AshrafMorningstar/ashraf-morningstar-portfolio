@@ -500,3 +500,4 @@
 - 2024-04-10: feat: add holographic 3D effects
 - 2024-04-11: fix: optimize bundle size by tree-shaking unused modules
 - 2024-04-13: feat: optimize core web vitals for mobile
+- 2024-04-14: fix: optimize bundle size by tree-shaking unused modules

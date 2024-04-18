@@ -502,3 +502,4 @@
 - 2024-04-13: feat: optimize core web vitals for mobile
 - 2024-04-14: fix: optimize bundle size by tree-shaking unused modules
 - 2024-04-15: refactor: modernize react hooks implementation
+- 2024-04-18: fix: patch XSS vulnerability in input sanitization

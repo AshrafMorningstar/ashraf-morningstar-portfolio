@@ -505,3 +505,4 @@
 - 2024-04-18: fix: patch XSS vulnerability in input sanitization
 - 2024-04-19: refactor: decouple ui components from logic
 - 2024-04-20: feat: implement glassmorphism UI kit
+- 2024-04-21: fix: optimize bundle size by tree-shaking unused modules

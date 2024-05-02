@@ -509,3 +509,4 @@
 - 2024-04-22: fix: patch XSS vulnerability in input sanitization
 - 2024-04-26: refactor: decouple ui components from logic
 - 2024-04-30: fix: resolve race condition in api store
+- 2024-05-02: fix: adjust z-index layering for modal overlays

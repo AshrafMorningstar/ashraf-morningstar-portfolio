@@ -510,3 +510,4 @@
 - 2024-04-26: refactor: decouple ui components from logic
 - 2024-04-30: fix: resolve race condition in api store
 - 2024-05-02: fix: adjust z-index layering for modal overlays
+- 2024-05-03: fix: adjust z-index layering for modal overlays

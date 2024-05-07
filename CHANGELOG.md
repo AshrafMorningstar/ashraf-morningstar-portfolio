@@ -511,3 +511,4 @@
 - 2024-04-30: fix: resolve race condition in api store
 - 2024-05-02: fix: adjust z-index layering for modal overlays
 - 2024-05-03: fix: adjust z-index layering for modal overlays
+- 2024-05-07: refactor: streamline typescript interfaces

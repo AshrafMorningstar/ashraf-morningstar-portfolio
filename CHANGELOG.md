@@ -512,3 +512,4 @@
 - 2024-05-02: fix: adjust z-index layering for modal overlays
 - 2024-05-03: fix: adjust z-index layering for modal overlays
 - 2024-05-07: refactor: streamline typescript interfaces
+- 2024-05-08: refactor: modernize react hooks implementation

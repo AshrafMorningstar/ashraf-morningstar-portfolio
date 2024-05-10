@@ -514,3 +514,4 @@
 - 2024-05-07: refactor: streamline typescript interfaces
 - 2024-05-08: refactor: modernize react hooks implementation
 - 2024-05-09: fix: resolve memory leak in WebGL canvas
+- 2024-05-10: feat: rollout dark mode V2 with neon accents

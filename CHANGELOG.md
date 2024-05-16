@@ -517,3 +517,4 @@
 - 2024-05-10: feat: rollout dark mode V2 with neon accents
 - 2024-05-11: feat: add aggressive caching strategy
 - 2024-05-13: refactor: decouple ui components from logic
+- 2024-05-16: refactor: optimize image loading strategy

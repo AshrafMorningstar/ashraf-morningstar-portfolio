@@ -518,3 +518,4 @@
 - 2024-05-11: feat: add aggressive caching strategy
 - 2024-05-13: refactor: decouple ui components from logic
 - 2024-05-16: refactor: optimize image loading strategy
+- 2024-05-17: fix: correct hydration error on server-side render

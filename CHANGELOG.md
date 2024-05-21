@@ -520,3 +520,4 @@
 - 2024-05-16: refactor: optimize image loading strategy
 - 2024-05-17: fix: correct hydration error on server-side render
 - 2024-05-18: fix: fix accessibility contrast ratio
+- 2024-05-21: refactor: decouple ui components from logic

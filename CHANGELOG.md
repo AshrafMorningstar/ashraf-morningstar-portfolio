@@ -526,3 +526,4 @@
 - 2024-05-26: feat: add aggressive caching strategy
 - 2024-05-27: refactor: modernize react hooks implementation
 - 2024-05-29: fix: fix accessibility contrast ratio
+- 2024-05-30: fix: resolve memory leak in WebGL canvas

@@ -529,3 +529,4 @@
 - 2024-05-30: fix: resolve memory leak in WebGL canvas
 - 2024-05-31: feat: secure api endpoints with rate limiting
 - 2024-06-01: fix: optimize bundle size by tree-shaking unused modules
+- 2024-06-02: refactor: clean up legacy css variables

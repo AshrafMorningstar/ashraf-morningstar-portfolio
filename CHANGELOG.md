@@ -531,3 +531,4 @@
 - 2024-06-01: fix: optimize bundle size by tree-shaking unused modules
 - 2024-06-02: refactor: clean up legacy css variables
 - 2024-06-03: fix: optimize bundle size by tree-shaking unused modules
+- 2024-06-06: fix: resolve memory leak in WebGL canvas

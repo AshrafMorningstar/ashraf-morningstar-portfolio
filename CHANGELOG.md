@@ -544,3 +544,4 @@
 - 2024-06-23: refactor: optimize image loading strategy
 - 2024-06-24: refactor: optimize image loading strategy
 - 2024-06-25: feat: secure api endpoints with rate limiting
+- 2024-06-26: refactor: clean up legacy css variables

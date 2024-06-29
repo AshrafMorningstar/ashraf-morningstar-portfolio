@@ -546,3 +546,4 @@
 - 2024-06-25: feat: secure api endpoints with rate limiting
 - 2024-06-26: refactor: clean up legacy css variables
 - 2024-06-27: refactor: modernize react hooks implementation
+- 2024-06-29: fix: patch XSS vulnerability in input sanitization

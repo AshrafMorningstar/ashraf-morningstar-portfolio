@@ -549,3 +549,4 @@
 - 2024-06-29: fix: patch XSS vulnerability in input sanitization
 - 2024-06-30: feat: add holographic 3D effects
 - 2024-07-01: fix: fix accessibility contrast ratio
+- 2024-07-02: refactor: decouple ui components from logic

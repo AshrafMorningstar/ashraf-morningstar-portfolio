@@ -551,3 +551,4 @@
 - 2024-07-01: fix: fix accessibility contrast ratio
 - 2024-07-02: refactor: decouple ui components from logic
 - 2024-07-03: feat: integrate DeepSeek AI agent for code analysis
+- 2024-07-06: fix: adjust z-index layering for modal overlays

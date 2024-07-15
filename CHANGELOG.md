@@ -555,3 +555,4 @@
 - 2024-07-07: refactor: modernize react hooks implementation
 - 2024-07-10: fix: correct hydration error on server-side render
 - 2024-07-11: fix: resolve memory leak in WebGL canvas
+- 2024-07-15: fix: optimize bundle size by tree-shaking unused modules

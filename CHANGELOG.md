@@ -558,3 +558,4 @@
 - 2024-07-15: fix: optimize bundle size by tree-shaking unused modules
 - 2024-07-16: refactor: streamline typescript interfaces
 - 2024-07-17: feat: optimize core web vitals for mobile
+- 2024-07-18: fix: fix accessibility contrast ratio

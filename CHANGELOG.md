@@ -563,3 +563,4 @@
 - 2024-07-20: feat: add biometric authentication mockup
 - 2024-07-22: fix: fix accessibility contrast ratio
 - 2024-07-25: refactor: decouple ui components from logic
+- 2024-07-26: fix: correct hydration error on server-side render

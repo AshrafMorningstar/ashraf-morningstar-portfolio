@@ -565,3 +565,4 @@
 - 2024-07-25: refactor: decouple ui components from logic
 - 2024-07-26: fix: correct hydration error on server-side render
 - 2024-07-27: fix: fix accessibility contrast ratio
+- 2024-07-30: refactor: streamline typescript interfaces

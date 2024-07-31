@@ -566,3 +566,4 @@
 - 2024-07-26: fix: correct hydration error on server-side render
 - 2024-07-27: fix: fix accessibility contrast ratio
 - 2024-07-30: refactor: streamline typescript interfaces
+- 2024-07-31: refactor: clean up legacy css variables

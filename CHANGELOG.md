@@ -569,3 +569,4 @@
 - 2024-07-31: refactor: clean up legacy css variables
 - 2024-08-01: feat: add biometric authentication mockup
 - 2024-08-03: fix: update dependency security patches
+- 2024-08-05: refactor: clean up legacy css variables

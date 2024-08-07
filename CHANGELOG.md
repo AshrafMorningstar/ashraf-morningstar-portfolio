@@ -571,3 +571,4 @@
 - 2024-08-03: fix: update dependency security patches
 - 2024-08-05: refactor: clean up legacy css variables
 - 2024-08-06: refactor: optimize image loading strategy
+- 2024-08-07: feat: secure api endpoints with rate limiting

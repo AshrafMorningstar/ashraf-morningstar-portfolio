@@ -572,3 +572,4 @@
 - 2024-08-05: refactor: clean up legacy css variables
 - 2024-08-06: refactor: optimize image loading strategy
 - 2024-08-07: feat: secure api endpoints with rate limiting
+- 2024-08-08: fix: resolve memory leak in WebGL canvas

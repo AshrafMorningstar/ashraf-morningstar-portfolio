@@ -581,3 +581,4 @@
 - 2024-08-19: fix: optimize bundle size by tree-shaking unused modules
 - 2024-08-20: feat: implement glassmorphism UI kit
 - 2024-08-21: feat: secure api endpoints with rate limiting
+- 2024-08-22: refactor: clean up legacy css variables

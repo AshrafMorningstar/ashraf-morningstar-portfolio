@@ -583,3 +583,4 @@
 - 2024-08-21: feat: secure api endpoints with rate limiting
 - 2024-08-22: refactor: clean up legacy css variables
 - 2024-08-23: feat: upgrade neural network particle system
+- 2024-08-24: refactor: optimize image loading strategy

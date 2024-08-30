@@ -587,3 +587,4 @@
 - 2024-08-27: feat: rollout dark mode V2 with neon accents
 - 2024-08-28: feat: add holographic 3D effects
 - 2024-08-29: refactor: migrate to clean architecture
+- 2024-08-30: refactor: decouple ui components from logic

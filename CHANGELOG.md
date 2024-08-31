@@ -588,3 +588,4 @@
 - 2024-08-28: feat: add holographic 3D effects
 - 2024-08-29: refactor: migrate to clean architecture
 - 2024-08-30: refactor: decouple ui components from logic
+- 2024-08-31: fix: adjust z-index layering for modal overlays

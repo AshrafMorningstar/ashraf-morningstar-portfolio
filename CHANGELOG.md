@@ -590,3 +590,4 @@
 - 2024-08-30: refactor: decouple ui components from logic
 - 2024-08-31: fix: adjust z-index layering for modal overlays
 - 2024-09-02: feat: secure api endpoints with rate limiting
+- 2024-09-03: feat: secure api endpoints with rate limiting

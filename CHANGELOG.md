@@ -596,3 +596,4 @@
 - 2024-09-07: refactor: streamline typescript interfaces
 - 2024-09-08: refactor: migrate to clean architecture
 - 2024-09-09: fix: correct hydration error on server-side render
+- 2024-09-11: feat: implement glassmorphism UI kit

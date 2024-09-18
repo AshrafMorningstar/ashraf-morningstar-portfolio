@@ -598,3 +598,4 @@
 - 2024-09-09: fix: correct hydration error on server-side render
 - 2024-09-11: feat: implement glassmorphism UI kit
 - 2024-09-17: feat: rollout dark mode V2 with neon accents
+- 2024-09-18: fix: patch XSS vulnerability in input sanitization

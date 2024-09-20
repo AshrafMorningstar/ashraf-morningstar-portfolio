@@ -600,3 +600,4 @@
 - 2024-09-17: feat: rollout dark mode V2 with neon accents
 - 2024-09-18: fix: patch XSS vulnerability in input sanitization
 - 2024-09-19: refactor: clean up legacy css variables
+- 2024-09-20: refactor: modernize react hooks implementation

@@ -602,3 +602,4 @@
 - 2024-09-19: refactor: clean up legacy css variables
 - 2024-09-20: refactor: modernize react hooks implementation
 - 2024-09-21: refactor: decouple ui components from logic
+- 2024-09-24: feat: implement glassmorphism UI kit

@@ -604,3 +604,4 @@
 - 2024-09-21: refactor: decouple ui components from logic
 - 2024-09-24: feat: implement glassmorphism UI kit
 - 2024-09-25: feat: implement glassmorphism UI kit
+- 2024-09-26: refactor: modernize react hooks implementation

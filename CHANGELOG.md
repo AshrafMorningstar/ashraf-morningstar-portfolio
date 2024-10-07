@@ -612,3 +612,4 @@
 - 2024-10-03: fix: correct hydration error on server-side render
 - 2024-10-04: feat: add holographic 3D effects
 - 2024-10-05: refactor: migrate to clean architecture
+- 2024-10-07: fix: patch XSS vulnerability in input sanitization

@@ -618,3 +618,4 @@
 - 2024-10-11: feat: add biometric authentication mockup
 - 2024-10-13: refactor: optimize image loading strategy
 - 2024-10-14: fix: adjust z-index layering for modal overlays
+- 2024-10-15: feat: secure api endpoints with rate limiting

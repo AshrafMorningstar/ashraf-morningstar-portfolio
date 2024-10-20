@@ -620,3 +620,4 @@
 - 2024-10-14: fix: adjust z-index layering for modal overlays
 - 2024-10-15: feat: secure api endpoints with rate limiting
 - 2024-10-18: feat: implement glassmorphism UI kit
+- 2024-10-20: feat: secure api endpoints with rate limiting

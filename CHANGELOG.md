@@ -626,3 +626,4 @@
 - 2024-10-23: fix: adjust z-index layering for modal overlays
 - 2024-10-28: fix: resolve race condition in api store
 - 2024-10-31: refactor: streamline typescript interfaces
+- 2024-11-02: feat: optimize core web vitals for mobile

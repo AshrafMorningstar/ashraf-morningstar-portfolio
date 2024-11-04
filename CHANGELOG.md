@@ -627,3 +627,4 @@
 - 2024-10-28: fix: resolve race condition in api store
 - 2024-10-31: refactor: streamline typescript interfaces
 - 2024-11-02: feat: optimize core web vitals for mobile
+- 2024-11-04: fix: optimize bundle size by tree-shaking unused modules

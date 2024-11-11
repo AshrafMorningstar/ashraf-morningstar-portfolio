@@ -633,3 +633,4 @@
 - 2024-11-08: fix: update dependency security patches
 - 2024-11-09: fix: optimize bundle size by tree-shaking unused modules
 - 2024-11-10: fix: patch XSS vulnerability in input sanitization
+- 2024-11-11: fix: patch XSS vulnerability in input sanitization

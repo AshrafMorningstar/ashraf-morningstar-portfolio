@@ -634,3 +634,4 @@
 - 2024-11-09: fix: optimize bundle size by tree-shaking unused modules
 - 2024-11-10: fix: patch XSS vulnerability in input sanitization
 - 2024-11-11: fix: patch XSS vulnerability in input sanitization
+- 2024-11-12: refactor: streamline typescript interfaces

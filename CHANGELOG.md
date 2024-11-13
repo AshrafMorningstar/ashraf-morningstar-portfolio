@@ -635,3 +635,4 @@
 - 2024-11-10: fix: patch XSS vulnerability in input sanitization
 - 2024-11-11: fix: patch XSS vulnerability in input sanitization
 - 2024-11-12: refactor: streamline typescript interfaces
+- 2024-11-13: fix: update dependency security patches

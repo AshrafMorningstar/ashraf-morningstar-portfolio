@@ -638,3 +638,4 @@
 - 2024-11-13: fix: update dependency security patches
 - 2024-11-14: fix: optimize bundle size by tree-shaking unused modules
 - 2024-11-15: fix: resolve memory leak in WebGL canvas
+- 2024-11-16: feat: optimize core web vitals for mobile

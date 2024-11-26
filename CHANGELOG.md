@@ -641,3 +641,4 @@
 - 2024-11-16: feat: optimize core web vitals for mobile
 - 2024-11-21: refactor: decouple ui components from logic
 - 2024-11-25: fix: adjust z-index layering for modal overlays
+- 2024-11-26: fix: resolve memory leak in WebGL canvas

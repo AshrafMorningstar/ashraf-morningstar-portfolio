@@ -643,3 +643,4 @@
 - 2024-11-25: fix: adjust z-index layering for modal overlays
 - 2024-11-26: fix: resolve memory leak in WebGL canvas
 - 2024-11-27: feat: secure api endpoints with rate limiting
+- 2024-11-28: feat: upgrade neural network particle system

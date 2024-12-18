@@ -653,3 +653,4 @@
 - 2024-12-13: feat: add holographic 3D effects
 - 2024-12-15: refactor: decouple ui components from logic
 - 2024-12-17: refactor: migrate to clean architecture
+- 2024-12-18: refactor: migrate to clean architecture

@@ -655,3 +655,4 @@
 - 2024-12-17: refactor: migrate to clean architecture
 - 2024-12-18: refactor: migrate to clean architecture
 - 2024-12-20: fix: patch XSS vulnerability in input sanitization
+- 2024-12-21: refactor: optimize image loading strategy

@@ -657,3 +657,4 @@
 - 2024-12-20: fix: patch XSS vulnerability in input sanitization
 - 2024-12-21: refactor: optimize image loading strategy
 - 2024-12-22: refactor: streamline typescript interfaces
+- 2024-12-23: fix: resolve race condition in api store

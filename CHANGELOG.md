@@ -664,3 +664,4 @@
 - 2024-12-29: fix: update dependency security patches
 - 2024-12-30: refactor: modernize react hooks implementation
 - 2025-01-02: refactor: modernize react hooks implementation
+- 2025-01-05: fix: correct hydration error on server-side render

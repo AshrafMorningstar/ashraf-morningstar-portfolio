@@ -665,3 +665,4 @@
 - 2024-12-30: refactor: modernize react hooks implementation
 - 2025-01-02: refactor: modernize react hooks implementation
 - 2025-01-05: fix: correct hydration error on server-side render
+- 2025-01-06: refactor: clean up legacy css variables

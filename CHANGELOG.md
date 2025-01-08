@@ -667,3 +667,4 @@
 - 2025-01-05: fix: correct hydration error on server-side render
 - 2025-01-06: refactor: clean up legacy css variables
 - 2025-01-07: fix: fix accessibility contrast ratio
+- 2025-01-08: feat: secure api endpoints with rate limiting

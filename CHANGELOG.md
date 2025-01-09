@@ -668,3 +668,4 @@
 - 2025-01-06: refactor: clean up legacy css variables
 - 2025-01-07: fix: fix accessibility contrast ratio
 - 2025-01-08: feat: secure api endpoints with rate limiting
+- 2025-01-09: refactor: decouple ui components from logic

@@ -672,3 +672,4 @@
 - 2025-01-10: refactor: streamline typescript interfaces
 - 2025-01-11: refactor: modernize react hooks implementation
 - 2025-01-12: refactor: migrate to clean architecture
+- 2025-01-13: refactor: decouple ui components from logic

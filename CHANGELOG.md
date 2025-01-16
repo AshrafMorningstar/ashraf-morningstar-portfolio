@@ -674,3 +674,4 @@
 - 2025-01-12: refactor: migrate to clean architecture
 - 2025-01-13: refactor: decouple ui components from logic
 - 2025-01-15: feat: secure api endpoints with rate limiting
+- 2025-01-16: fix: patch XSS vulnerability in input sanitization

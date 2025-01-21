@@ -678,3 +678,4 @@
 - 2025-01-17: feat: rollout dark mode V2 with neon accents
 - 2025-01-18: feat: add holographic 3D effects
 - 2025-01-19: refactor: migrate to clean architecture
+- 2025-01-21: refactor: clean up legacy css variables

@@ -681,3 +681,4 @@
 - 2025-01-21: refactor: clean up legacy css variables
 - 2025-01-22: fix: fix accessibility contrast ratio
 - 2025-01-23: fix: correct hydration error on server-side render
+- 2025-01-27: refactor: modernize react hooks implementation

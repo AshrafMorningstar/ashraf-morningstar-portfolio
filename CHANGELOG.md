@@ -689,3 +689,4 @@
 - 2025-02-04: fix: resolve memory leak in WebGL canvas
 - 2025-02-05: feat: add aggressive caching strategy
 - 2025-02-07: feat: add biometric authentication mockup
+- 2025-02-08: feat: upgrade neural network particle system

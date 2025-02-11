@@ -691,3 +691,4 @@
 - 2025-02-07: feat: add biometric authentication mockup
 - 2025-02-08: feat: upgrade neural network particle system
 - 2025-02-10: feat: upgrade neural network particle system
+- 2025-02-11: refactor: optimize image loading strategy

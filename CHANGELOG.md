@@ -693,3 +693,4 @@
 - 2025-02-10: feat: upgrade neural network particle system
 - 2025-02-11: refactor: optimize image loading strategy
 - 2025-02-13: feat: add aggressive caching strategy
+- 2025-02-14: fix: correct hydration error on server-side render

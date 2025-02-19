@@ -696,3 +696,4 @@
 - 2025-02-14: fix: correct hydration error on server-side render
 - 2025-02-16: feat: optimize core web vitals for mobile
 - 2025-02-17: fix: resolve race condition in api store
+- 2025-02-19: refactor: migrate to clean architecture

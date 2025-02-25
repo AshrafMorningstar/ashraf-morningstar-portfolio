@@ -698,3 +698,4 @@
 - 2025-02-17: fix: resolve race condition in api store
 - 2025-02-19: refactor: migrate to clean architecture
 - 2025-02-22: feat: upgrade neural network particle system
+- 2025-02-25: feat: upgrade neural network particle system

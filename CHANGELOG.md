@@ -699,3 +699,4 @@
 - 2025-02-19: refactor: migrate to clean architecture
 - 2025-02-22: feat: upgrade neural network particle system
 - 2025-02-25: feat: upgrade neural network particle system
+- 2025-03-01: fix: correct hydration error on server-side render

@@ -701,3 +701,4 @@
 - 2025-02-25: feat: upgrade neural network particle system
 - 2025-03-01: fix: correct hydration error on server-side render
 - 2025-03-02: fix: resolve race condition in api store
+- 2025-03-03: refactor: modernize react hooks implementation

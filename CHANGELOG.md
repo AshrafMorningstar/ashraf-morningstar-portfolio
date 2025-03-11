@@ -708,3 +708,4 @@
 - 2025-03-07: feat: upgrade neural network particle system
 - 2025-03-09: fix: update dependency security patches
 - 2025-03-10: refactor: streamline typescript interfaces
+- 2025-03-11: refactor: clean up legacy css variables

@@ -712,3 +712,4 @@
 - 2025-03-12: feat: add holographic 3D effects
 - 2025-03-13: refactor: streamline typescript interfaces
 - 2025-03-15: fix: optimize bundle size by tree-shaking unused modules
+- 2025-03-17: fix: patch XSS vulnerability in input sanitization

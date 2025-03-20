@@ -713,3 +713,4 @@
 - 2025-03-13: refactor: streamline typescript interfaces
 - 2025-03-15: fix: optimize bundle size by tree-shaking unused modules
 - 2025-03-17: fix: patch XSS vulnerability in input sanitization
+- 2025-03-20: feat: add aggressive caching strategy

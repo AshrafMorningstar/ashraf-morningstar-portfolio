@@ -717,3 +717,4 @@
 - 2025-03-23: refactor: optimize image loading strategy
 - 2025-03-24: feat: add biometric authentication mockup
 - 2025-03-25: feat: add biometric authentication mockup
+- 2025-03-26: feat: rollout dark mode V2 with neon accents

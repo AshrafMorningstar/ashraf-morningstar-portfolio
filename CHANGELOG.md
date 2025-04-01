@@ -720,3 +720,4 @@
 - 2025-03-26: feat: rollout dark mode V2 with neon accents
 - 2025-03-27: refactor: decouple ui components from logic
 - 2025-03-31: refactor: modernize react hooks implementation
+- 2025-04-01: refactor: modernize react hooks implementation

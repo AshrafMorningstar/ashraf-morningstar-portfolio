@@ -727,3 +727,4 @@
 - 2025-04-09: feat: add biometric authentication mockup
 - 2025-04-10: refactor: streamline typescript interfaces
 - 2025-04-11: feat: upgrade neural network particle system
+- 2025-04-12: fix: optimize bundle size by tree-shaking unused modules

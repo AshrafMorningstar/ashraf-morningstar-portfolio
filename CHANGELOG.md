@@ -730,3 +730,4 @@
 - 2025-04-12: fix: optimize bundle size by tree-shaking unused modules
 - 2025-04-14: refactor: clean up legacy css variables
 - 2025-04-15: refactor: decouple ui components from logic
+- 2025-04-16: refactor: decouple ui components from logic

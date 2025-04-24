@@ -733,3 +733,4 @@
 - 2025-04-16: refactor: decouple ui components from logic
 - 2025-04-20: fix: resolve memory leak in WebGL canvas
 - 2025-04-21: refactor: modernize react hooks implementation
+- 2025-04-24: fix: resolve memory leak in WebGL canvas

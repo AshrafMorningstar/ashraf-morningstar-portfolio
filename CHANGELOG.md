@@ -736,3 +736,4 @@
 - 2025-04-24: fix: resolve memory leak in WebGL canvas
 - 2025-04-26: feat: secure api endpoints with rate limiting
 - 2025-04-27: fix: correct hydration error on server-side render
+- 2025-04-28: fix: resolve memory leak in WebGL canvas

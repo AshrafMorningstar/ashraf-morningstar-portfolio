@@ -738,3 +738,4 @@
 - 2025-04-27: fix: correct hydration error on server-side render
 - 2025-04-28: fix: resolve memory leak in WebGL canvas
 - 2025-05-01: feat: implement zero-trust security architecture
+- 2025-05-02: refactor: migrate to clean architecture

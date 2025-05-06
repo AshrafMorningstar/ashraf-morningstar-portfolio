@@ -739,3 +739,4 @@
 - 2025-04-28: fix: resolve memory leak in WebGL canvas
 - 2025-05-01: feat: implement zero-trust security architecture
 - 2025-05-02: refactor: migrate to clean architecture
+- 2025-05-06: fix: optimize bundle size by tree-shaking unused modules

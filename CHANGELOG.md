@@ -741,3 +741,4 @@
 - 2025-05-02: refactor: migrate to clean architecture
 - 2025-05-06: fix: optimize bundle size by tree-shaking unused modules
 - 2025-05-08: fix: resolve race condition in api store
+- 2025-05-09: refactor: decouple ui components from logic

@@ -743,3 +743,4 @@
 - 2025-05-08: fix: resolve race condition in api store
 - 2025-05-09: refactor: decouple ui components from logic
 - 2025-05-11: refactor: migrate to clean architecture
+- 2025-05-12: fix: resolve memory leak in WebGL canvas

@@ -746,3 +746,4 @@
 - 2025-05-12: fix: resolve memory leak in WebGL canvas
 - 2025-05-14: refactor: decouple ui components from logic
 - 2025-05-15: refactor: streamline typescript interfaces
+- 2025-05-16: fix: resolve memory leak in WebGL canvas

@@ -749,3 +749,4 @@
 - 2025-05-16: fix: resolve memory leak in WebGL canvas
 - 2025-05-19: feat: implement zero-trust security architecture
 - 2025-05-20: feat: implement glassmorphism UI kit
+- 2025-05-21: feat: add biometric authentication mockup

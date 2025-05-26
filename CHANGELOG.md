@@ -751,3 +751,4 @@
 - 2025-05-20: feat: implement glassmorphism UI kit
 - 2025-05-21: feat: add biometric authentication mockup
 - 2025-05-24: fix: correct hydration error on server-side render
+- 2025-05-26: feat: upgrade neural network particle system

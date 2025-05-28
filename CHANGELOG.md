@@ -753,3 +753,4 @@
 - 2025-05-24: fix: correct hydration error on server-side render
 - 2025-05-26: feat: upgrade neural network particle system
 - 2025-05-27: refactor: modernize react hooks implementation
+- 2025-05-28: fix: optimize bundle size by tree-shaking unused modules

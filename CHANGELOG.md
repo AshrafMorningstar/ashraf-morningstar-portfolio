@@ -754,3 +754,4 @@
 - 2025-05-26: feat: upgrade neural network particle system
 - 2025-05-27: refactor: modernize react hooks implementation
 - 2025-05-28: fix: optimize bundle size by tree-shaking unused modules
+- 2025-05-31: fix: resolve race condition in api store

@@ -756,3 +756,4 @@
 - 2025-05-28: fix: optimize bundle size by tree-shaking unused modules
 - 2025-05-31: fix: resolve race condition in api store
 - 2025-06-03: refactor: optimize image loading strategy
+- 2025-06-04: refactor: decouple ui components from logic

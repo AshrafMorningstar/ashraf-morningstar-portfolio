@@ -758,3 +758,4 @@
 - 2025-06-03: refactor: optimize image loading strategy
 - 2025-06-04: refactor: decouple ui components from logic
 - 2025-06-07: feat: integrate DeepSeek AI agent for code analysis
+- 2025-06-11: feat: integrate DeepSeek AI agent for code analysis

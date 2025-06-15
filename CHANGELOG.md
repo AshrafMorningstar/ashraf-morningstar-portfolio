@@ -761,3 +761,4 @@
 - 2025-06-11: feat: integrate DeepSeek AI agent for code analysis
 - 2025-06-12: feat: add holographic 3D effects
 - 2025-06-13: refactor: migrate to clean architecture
+- 2025-06-15: feat: optimize core web vitals for mobile

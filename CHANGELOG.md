@@ -762,3 +762,4 @@
 - 2025-06-12: feat: add holographic 3D effects
 - 2025-06-13: refactor: migrate to clean architecture
 - 2025-06-15: feat: optimize core web vitals for mobile
+- 2025-06-16: refactor: decouple ui components from logic

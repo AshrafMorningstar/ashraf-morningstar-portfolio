@@ -765,3 +765,4 @@
 - 2025-06-16: refactor: decouple ui components from logic
 - 2025-06-17: feat: add holographic 3D effects
 - 2025-06-18: feat: add holographic 3D effects
+- 2025-06-19: refactor: migrate to clean architecture

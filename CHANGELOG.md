@@ -766,3 +766,4 @@
 - 2025-06-17: feat: add holographic 3D effects
 - 2025-06-18: feat: add holographic 3D effects
 - 2025-06-19: refactor: migrate to clean architecture
+- 2025-06-21: fix: patch XSS vulnerability in input sanitization

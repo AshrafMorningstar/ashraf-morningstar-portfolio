@@ -768,3 +768,4 @@
 - 2025-06-19: refactor: migrate to clean architecture
 - 2025-06-21: fix: patch XSS vulnerability in input sanitization
 - 2025-06-26: refactor: clean up legacy css variables
+- 2025-06-29: refactor: streamline typescript interfaces

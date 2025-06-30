@@ -769,3 +769,4 @@
 - 2025-06-21: fix: patch XSS vulnerability in input sanitization
 - 2025-06-26: refactor: clean up legacy css variables
 - 2025-06-29: refactor: streamline typescript interfaces
+- 2025-06-30: fix: resolve memory leak in WebGL canvas

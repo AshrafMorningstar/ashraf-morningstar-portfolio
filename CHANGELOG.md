@@ -778,3 +778,4 @@
 - 2025-07-08: refactor: migrate to clean architecture
 - 2025-07-09: feat: implement glassmorphism UI kit
 - 2025-07-10: refactor: decouple ui components from logic
+- 2025-07-11: fix: optimize bundle size by tree-shaking unused modules

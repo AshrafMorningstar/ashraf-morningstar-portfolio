@@ -780,3 +780,4 @@
 - 2025-07-10: refactor: decouple ui components from logic
 - 2025-07-11: fix: optimize bundle size by tree-shaking unused modules
 - 2025-07-13: fix: patch XSS vulnerability in input sanitization
+- 2025-07-16: fix: correct hydration error on server-side render

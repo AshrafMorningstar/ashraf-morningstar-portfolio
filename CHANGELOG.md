@@ -783,3 +783,4 @@
 - 2025-07-16: fix: correct hydration error on server-side render
 - 2025-07-18: fix: patch XSS vulnerability in input sanitization
 - 2025-07-19: fix: fix accessibility contrast ratio
+- 2025-07-22: refactor: optimize image loading strategy

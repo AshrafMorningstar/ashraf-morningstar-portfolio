@@ -785,3 +785,4 @@
 - 2025-07-19: fix: fix accessibility contrast ratio
 - 2025-07-22: refactor: optimize image loading strategy
 - 2025-07-24: fix: resolve memory leak in WebGL canvas
+- 2025-07-25: refactor: clean up legacy css variables

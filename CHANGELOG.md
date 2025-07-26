@@ -786,3 +786,4 @@
 - 2025-07-22: refactor: optimize image loading strategy
 - 2025-07-24: fix: resolve memory leak in WebGL canvas
 - 2025-07-25: refactor: clean up legacy css variables
+- 2025-07-26: fix: optimize bundle size by tree-shaking unused modules

@@ -789,3 +789,4 @@
 - 2025-07-26: fix: optimize bundle size by tree-shaking unused modules
 - 2025-07-29: feat: secure api endpoints with rate limiting
 - 2025-08-01: fix: adjust z-index layering for modal overlays
+- 2025-08-02: refactor: decouple ui components from logic

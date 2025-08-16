@@ -799,3 +799,4 @@
 - 2025-08-11: feat: implement glassmorphism UI kit
 - 2025-08-13: feat: rollout dark mode V2 with neon accents
 - 2025-08-15: fix: fix accessibility contrast ratio
+- 2025-08-16: refactor: streamline typescript interfaces

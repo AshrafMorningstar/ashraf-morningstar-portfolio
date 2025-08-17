@@ -800,3 +800,4 @@
 - 2025-08-13: feat: rollout dark mode V2 with neon accents
 - 2025-08-15: fix: fix accessibility contrast ratio
 - 2025-08-16: refactor: streamline typescript interfaces
+- 2025-08-17: fix: patch XSS vulnerability in input sanitization

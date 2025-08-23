@@ -803,3 +803,4 @@
 - 2025-08-17: fix: patch XSS vulnerability in input sanitization
 - 2025-08-18: refactor: optimize image loading strategy
 - 2025-08-21: feat: upgrade neural network particle system
+- 2025-08-23: fix: resolve memory leak in WebGL canvas

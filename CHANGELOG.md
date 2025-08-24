@@ -804,3 +804,4 @@
 - 2025-08-18: refactor: optimize image loading strategy
 - 2025-08-21: feat: upgrade neural network particle system
 - 2025-08-23: fix: resolve memory leak in WebGL canvas
+- 2025-08-24: fix: resolve memory leak in WebGL canvas

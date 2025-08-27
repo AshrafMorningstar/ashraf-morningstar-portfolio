@@ -805,3 +805,4 @@
 - 2025-08-21: feat: upgrade neural network particle system
 - 2025-08-23: fix: resolve memory leak in WebGL canvas
 - 2025-08-24: fix: resolve memory leak in WebGL canvas
+- 2025-08-27: refactor: clean up legacy css variables

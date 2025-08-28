@@ -806,3 +806,4 @@
 - 2025-08-23: fix: resolve memory leak in WebGL canvas
 - 2025-08-24: fix: resolve memory leak in WebGL canvas
 - 2025-08-27: refactor: clean up legacy css variables
+- 2025-08-28: feat: add biometric authentication mockup

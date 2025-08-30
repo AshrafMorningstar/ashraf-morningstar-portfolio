@@ -807,3 +807,4 @@
 - 2025-08-24: fix: resolve memory leak in WebGL canvas
 - 2025-08-27: refactor: clean up legacy css variables
 - 2025-08-28: feat: add biometric authentication mockup
+- 2025-08-30: refactor: decouple ui components from logic

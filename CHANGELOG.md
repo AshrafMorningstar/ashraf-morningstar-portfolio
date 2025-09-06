@@ -811,3 +811,4 @@
 - 2025-08-31: refactor: migrate to clean architecture
 - 2025-09-01: refactor: streamline typescript interfaces
 - 2025-09-02: fix: optimize bundle size by tree-shaking unused modules
+- 2025-09-06: refactor: streamline typescript interfaces

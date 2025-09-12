@@ -813,3 +813,4 @@
 - 2025-09-02: fix: optimize bundle size by tree-shaking unused modules
 - 2025-09-06: refactor: streamline typescript interfaces
 - 2025-09-08: feat: implement glassmorphism UI kit
+- 2025-09-12: refactor: clean up legacy css variables

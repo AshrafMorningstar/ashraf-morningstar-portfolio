@@ -814,3 +814,4 @@
 - 2025-09-06: refactor: streamline typescript interfaces
 - 2025-09-08: feat: implement glassmorphism UI kit
 - 2025-09-12: refactor: clean up legacy css variables
+- 2025-09-13: refactor: clean up legacy css variables

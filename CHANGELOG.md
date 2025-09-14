@@ -815,3 +815,4 @@
 - 2025-09-08: feat: implement glassmorphism UI kit
 - 2025-09-12: refactor: clean up legacy css variables
 - 2025-09-13: refactor: clean up legacy css variables
+- 2025-09-14: refactor: migrate to clean architecture

@@ -818,3 +818,4 @@
 - 2025-09-14: refactor: migrate to clean architecture
 - 2025-09-15: feat: integrate DeepSeek AI agent for code analysis
 - 2025-09-16: refactor: optimize image loading strategy
+- 2025-09-20: feat: secure api endpoints with rate limiting

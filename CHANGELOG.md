@@ -823,3 +823,4 @@
 - 2025-09-22: refactor: modernize react hooks implementation
 - 2025-09-23: feat: integrate DeepSeek AI agent for code analysis
 - 2025-09-26: feat: optimize core web vitals for mobile
+- 2025-09-27: fix: adjust z-index layering for modal overlays

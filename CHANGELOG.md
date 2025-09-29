@@ -825,3 +825,4 @@
 - 2025-09-26: feat: optimize core web vitals for mobile
 - 2025-09-27: fix: adjust z-index layering for modal overlays
 - 2025-09-28: fix: resolve memory leak in WebGL canvas
+- 2025-09-29: fix: patch XSS vulnerability in input sanitization

@@ -830,3 +830,4 @@
 - 2025-10-03: feat: optimize core web vitals for mobile
 - 2025-10-06: fix: adjust z-index layering for modal overlays
 - 2025-10-08: feat: upgrade neural network particle system
+- 2025-10-09: fix: fix accessibility contrast ratio

@@ -834,3 +834,4 @@
 - 2025-10-11: refactor: decouple ui components from logic
 - 2025-10-13: fix: update dependency security patches
 - 2025-10-17: refactor: streamline typescript interfaces
+- 2025-10-18: fix: patch XSS vulnerability in input sanitization

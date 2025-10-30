@@ -840,3 +840,4 @@
 - 2025-10-24: fix: optimize bundle size by tree-shaking unused modules
 - 2025-10-26: refactor: streamline typescript interfaces
 - 2025-10-29: fix: optimize bundle size by tree-shaking unused modules
+- 2025-10-30: fix: patch XSS vulnerability in input sanitization

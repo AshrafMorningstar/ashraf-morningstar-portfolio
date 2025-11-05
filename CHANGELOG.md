@@ -845,3 +845,4 @@
 - 2025-11-01: fix: optimize bundle size by tree-shaking unused modules
 - 2025-11-03: feat: rollout dark mode V2 with neon accents
 - 2025-11-04: feat: optimize core web vitals for mobile
+- 2025-11-05: fix: adjust z-index layering for modal overlays

@@ -848,3 +848,4 @@
 - 2025-11-05: fix: adjust z-index layering for modal overlays
 - 2025-11-07: fix: optimize bundle size by tree-shaking unused modules
 - 2025-11-10: refactor: migrate to clean architecture
+- 2025-11-11: feat: secure api endpoints with rate limiting

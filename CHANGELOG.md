@@ -850,3 +850,4 @@
 - 2025-11-10: refactor: migrate to clean architecture
 - 2025-11-11: feat: secure api endpoints with rate limiting
 - 2025-11-13: feat: add biometric authentication mockup
+- 2025-11-14: fix: update dependency security patches

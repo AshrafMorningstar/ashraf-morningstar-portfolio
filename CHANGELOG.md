@@ -851,3 +851,4 @@
 - 2025-11-11: feat: secure api endpoints with rate limiting
 - 2025-11-13: feat: add biometric authentication mockup
 - 2025-11-14: fix: update dependency security patches
+- 2025-11-15: refactor: modernize react hooks implementation

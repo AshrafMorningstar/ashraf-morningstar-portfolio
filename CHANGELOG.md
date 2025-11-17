@@ -852,3 +852,4 @@
 - 2025-11-13: feat: add biometric authentication mockup
 - 2025-11-14: fix: update dependency security patches
 - 2025-11-15: refactor: modernize react hooks implementation
+- 2025-11-17: fix: patch XSS vulnerability in input sanitization

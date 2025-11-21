@@ -856,3 +856,4 @@
 - 2025-11-18: feat: rollout dark mode V2 with neon accents
 - 2025-11-19: refactor: migrate to clean architecture
 - 2025-11-20: refactor: migrate to clean architecture
+- 2025-11-21: fix: update dependency security patches

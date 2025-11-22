@@ -857,3 +857,4 @@
 - 2025-11-19: refactor: migrate to clean architecture
 - 2025-11-20: refactor: migrate to clean architecture
 - 2025-11-21: fix: update dependency security patches
+- 2025-11-22: refactor: optimize image loading strategy

@@ -861,3 +861,4 @@
 - 2025-11-23: fix: fix accessibility contrast ratio
 - 2025-11-26: feat: add biometric authentication mockup
 - 2025-11-27: feat: add biometric authentication mockup
+- 2025-11-29: feat: upgrade neural network particle system

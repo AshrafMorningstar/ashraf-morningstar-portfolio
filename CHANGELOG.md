@@ -862,3 +862,4 @@
 - 2025-11-26: feat: add biometric authentication mockup
 - 2025-11-27: feat: add biometric authentication mockup
 - 2025-11-29: feat: upgrade neural network particle system
+- 2025-12-01: fix: resolve race condition in api store

@@ -864,3 +864,4 @@
 - 2025-11-29: feat: upgrade neural network particle system
 - 2025-12-01: fix: resolve race condition in api store
 - 2025-12-02: feat: upgrade neural network particle system
+- 2025-12-03: fix: adjust z-index layering for modal overlays

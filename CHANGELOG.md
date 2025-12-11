@@ -867,3 +867,4 @@
 - 2025-12-03: fix: adjust z-index layering for modal overlays
 - 2025-12-06: feat: add holographic 3D effects
 - 2025-12-08: refactor: modernize react hooks implementation
+- 2025-12-11: fix: resolve race condition in api store

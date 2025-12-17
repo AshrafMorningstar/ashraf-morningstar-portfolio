@@ -872,3 +872,4 @@
 - 2025-12-13: feat: add holographic 3D effects
 - 2025-12-14: fix: correct hydration error on server-side render
 - 2025-12-15: fix: update dependency security patches
+- 2025-12-17: fix: correct hydration error on server-side render

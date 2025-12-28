@@ -877,3 +877,4 @@
 - 2025-12-23: feat: implement glassmorphism UI kit
 - 2025-12-25: refactor: optimize image loading strategy
 - 2025-12-26: fix: optimize bundle size by tree-shaking unused modules
+- 2025-12-28: refactor: optimize image loading strategy

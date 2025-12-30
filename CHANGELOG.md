@@ -879,3 +879,4 @@
 - 2025-12-26: fix: optimize bundle size by tree-shaking unused modules
 - 2025-12-28: refactor: optimize image loading strategy
 - 2025-12-29: fix: correct hydration error on server-side render
+- 2025-12-30: refactor: optimize image loading strategy

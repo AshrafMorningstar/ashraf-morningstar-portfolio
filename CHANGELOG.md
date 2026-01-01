@@ -881,3 +881,4 @@
 - 2025-12-29: fix: correct hydration error on server-side render
 - 2025-12-30: refactor: optimize image loading strategy
 - 2025-12-31: fix: fix accessibility contrast ratio
+- 2026-01-01: feat: upgrade neural network particle system

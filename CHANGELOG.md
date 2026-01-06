@@ -884,3 +884,4 @@
 - 2026-01-01: feat: upgrade neural network particle system
 - 2026-01-02: feat: upgrade neural network particle system
 - 2026-01-04: feat: optimize core web vitals for mobile
+- 2026-01-06: refactor: optimize image loading strategy

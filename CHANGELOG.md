@@ -887,3 +887,4 @@
 - 2026-01-06: refactor: optimize image loading strategy
 - 2026-01-07: refactor: decouple ui components from logic
 - 2026-01-08: feat: integrate DeepSeek AI agent for code analysis
+- 2026-01-09: fix: resolve race condition in api store

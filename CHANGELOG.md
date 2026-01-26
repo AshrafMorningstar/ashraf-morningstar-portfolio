@@ -897,3 +897,4 @@
 - 2026-01-21: refactor: optimize image loading strategy
 - 2026-01-23: refactor: streamline typescript interfaces
 - 2026-01-25: feat: implement zero-trust security architecture
+- 2026-01-26: fix: resolve race condition in api store

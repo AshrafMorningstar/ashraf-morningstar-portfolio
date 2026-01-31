@@ -900,3 +900,4 @@
 - 2026-01-26: fix: resolve race condition in api store
 - 2026-01-27: feat: upgrade neural network particle system
 - 2026-01-30: feat: add aggressive caching strategy
+- 2026-01-31: refactor: migrate to clean architecture

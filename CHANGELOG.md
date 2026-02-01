@@ -901,3 +901,4 @@
 - 2026-01-27: feat: upgrade neural network particle system
 - 2026-01-30: feat: add aggressive caching strategy
 - 2026-01-31: refactor: migrate to clean architecture
+- 2026-02-01: feat: upgrade neural network particle system

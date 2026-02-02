@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashrafmorningstar.in/sitemap.xml
+Host: https://ashrafmorningstar.in

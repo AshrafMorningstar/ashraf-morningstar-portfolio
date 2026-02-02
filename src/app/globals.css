@@ -1,0 +1,123 @@
+/*
+ * Copyright (c) 2022-2026 Ashraf Morningstar
+ * These are personal recreations of existing projects, developed by Ashraf Morningstar for learning and skill development.
+ * Original project concepts remain the intellectual property of their respective creators.
+ */
+
+:root {
+  /* Color Palette - Cybersecurity Theme with Neon Accents */
+  --color-primary: #00ff88;
+  --color-primary-dark: #00cc6a;
+  --color-primary-light: #66ffbb;
+  --color-secondary: #0066ff;
+  --color-accent: #ff0066;
+  --color-warning: #ffaa00;
+
+  /* Backgrounds */
+  --color-bg-primary: #0a0e1a;
+  --color-bg-secondary: #0f1420;
+  --color-bg-tertiary: #151a2a;
+  --color-bg-card: rgba(21, 26, 42, 0.4);
+
+  /* Text Colors */
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #a0aec0;
+  --color-text-muted: #718096;
+
+  /* Borders & Lines */
+  --color-border: rgba(255, 255, 255, 0.1);
+  --color-border-focus: var(--color-primary);
+
+  /* Dimensions */
+  --container-max: 1400px;
+  --header-height: 80px;
+
+  /* Fonts */
+  --font-heading: 'Syne', sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+}
+
+/* Reset & Base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  line-height: 1.6;
+}
+
+/* Typography Utility Classes */
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+  background: var(--color-bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  will-change: transform, backdrop-filter;
+  transform: translateZ(0);
+  /* Trigger GPU acceleration */
+}
+
+.will-change-transform {
+  will-change: transform;
+}
+
+/* Container */
+.container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 2rem;
+  width: 100%;
+  contain: layout;
+  /* Performance optimization */
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--header-height);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
